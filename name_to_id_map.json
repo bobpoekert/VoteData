@@ -1,0 +1,14818 @@
+[
+	{
+		"terms" : [
+			{
+				"state" : "OH"
+			},
+			{
+				"state" : "OH"
+			},
+			{
+				"state" : "OH"
+			},
+			{
+				"state" : "OH"
+			},
+			{
+				"state" : "OH"
+			},
+			{
+				"state" : "OH"
+			},
+			{
+				"state" : "OH"
+			},
+			{
+				"state" : "OH"
+			},
+			{
+				"state" : "OH"
+			}
+		],
+		"id" : {
+			"bioguide" : "B000944"
+		},
+		"name" : {
+			"last" : "Brown",
+			"first" : "Sherrod"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "WA"
+			},
+			{
+				"state" : "WA"
+			},
+			{
+				"state" : "WA"
+			},
+			{
+				"state" : "WA"
+			}
+		],
+		"id" : {
+			"bioguide" : "C000127"
+		},
+		"name" : {
+			"last" : "Cantwell",
+			"first" : "Maria"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "MD"
+			},
+			{
+				"state" : "MD"
+			},
+			{
+				"state" : "MD"
+			},
+			{
+				"state" : "MD"
+			},
+			{
+				"state" : "MD"
+			},
+			{
+				"state" : "MD"
+			},
+			{
+				"state" : "MD"
+			},
+			{
+				"state" : "MD"
+			},
+			{
+				"state" : "MD"
+			},
+			{
+				"state" : "MD"
+			},
+			{
+				"state" : "MD"
+			},
+			{
+				"state" : "MD"
+			}
+		],
+		"id" : {
+			"bioguide" : "C000141"
+		},
+		"name" : {
+			"last" : "Cardin",
+			"first" : "Benjamin"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "DE"
+			},
+			{
+				"state" : "DE"
+			},
+			{
+				"state" : "DE"
+			},
+			{
+				"state" : "DE"
+			},
+			{
+				"state" : "DE"
+			},
+			{
+				"state" : "DE"
+			},
+			{
+				"state" : "DE"
+			},
+			{
+				"state" : "DE"
+			}
+		],
+		"id" : {
+			"bioguide" : "C000174"
+		},
+		"name" : {
+			"last" : "Carper",
+			"first" : "Thomas"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "PA"
+			},
+			{
+				"state" : "PA"
+			}
+		],
+		"id" : {
+			"bioguide" : "C001070"
+		},
+		"name" : {
+			"last" : "Casey",
+			"first" : "Robert"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "TN"
+			},
+			{
+				"state" : "TN"
+			}
+		],
+		"id" : {
+			"bioguide" : "C001071"
+		},
+		"name" : {
+			"last" : "Corker",
+			"first" : "Bob"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			}
+		],
+		"id" : {
+			"bioguide" : "F000062"
+		},
+		"name" : {
+			"last" : "Feinstein",
+			"first" : "Dianne"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "UT"
+			},
+			{
+				"state" : "UT"
+			},
+			{
+				"state" : "UT"
+			},
+			{
+				"state" : "UT"
+			},
+			{
+				"state" : "UT"
+			},
+			{
+				"state" : "UT"
+			},
+			{
+				"state" : "UT"
+			}
+		],
+		"id" : {
+			"bioguide" : "H000338"
+		},
+		"name" : {
+			"last" : "Hatch",
+			"first" : "Orrin"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "MN"
+			},
+			{
+				"state" : "MN"
+			}
+		],
+		"id" : {
+			"bioguide" : "K000367"
+		},
+		"name" : {
+			"last" : "Klobuchar",
+			"first" : "Amy"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "MO"
+			},
+			{
+				"state" : "MO"
+			}
+		],
+		"id" : {
+			"bioguide" : "M001170"
+		},
+		"name" : {
+			"last" : "McCaskill",
+			"first" : "Claire"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "NJ"
+			},
+			{
+				"state" : "NJ"
+			},
+			{
+				"state" : "NJ"
+			},
+			{
+				"state" : "NJ"
+			},
+			{
+				"state" : "NJ"
+			},
+			{
+				"state" : "NJ"
+			},
+			{
+				"state" : "NJ"
+			},
+			{
+				"state" : "NJ"
+			},
+			{
+				"state" : "NJ"
+			},
+			{
+				"state" : "NJ"
+			}
+		],
+		"name" : {
+			"last" : "Menéndez",
+			"first" : "Robert"
+		},
+		"id" : {
+			"bioguide" : "M000639"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "FL"
+			},
+			{
+				"state" : "FL"
+			},
+			{
+				"state" : "FL"
+			},
+			{
+				"state" : "FL"
+			},
+			{
+				"state" : "FL"
+			},
+			{
+				"state" : "FL"
+			},
+			{
+				"state" : "FL"
+			},
+			{
+				"state" : "FL"
+			},
+			{
+				"state" : "FL"
+			}
+		],
+		"id" : {
+			"bioguide" : "N000032"
+		},
+		"name" : {
+			"last" : "Nelson",
+			"first" : "Bill"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "VT"
+			},
+			{
+				"state" : "VT"
+			},
+			{
+				"state" : "VT"
+			},
+			{
+				"state" : "VT"
+			},
+			{
+				"state" : "VT"
+			},
+			{
+				"state" : "VT"
+			},
+			{
+				"state" : "VT"
+			},
+			{
+				"state" : "VT"
+			},
+			{
+				"state" : "VT"
+			},
+			{
+				"state" : "VT"
+			}
+		],
+		"id" : {
+			"bioguide" : "S000033"
+		},
+		"name" : {
+			"last" : "Sanders",
+			"first" : "Bernard"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "MI"
+			},
+			{
+				"state" : "MI"
+			},
+			{
+				"state" : "MI"
+			},
+			{
+				"state" : "MI"
+			},
+			{
+				"state" : "MI"
+			}
+		],
+		"id" : {
+			"bioguide" : "S000770"
+		},
+		"name" : {
+			"last" : "Stabenow",
+			"first" : "Debbie"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "MT"
+			},
+			{
+				"state" : "MT"
+			}
+		],
+		"id" : {
+			"bioguide" : "T000464"
+		},
+		"name" : {
+			"last" : "Tester",
+			"first" : "Jon"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "RI"
+			},
+			{
+				"state" : "RI"
+			}
+		],
+		"id" : {
+			"bioguide" : "W000802"
+		},
+		"name" : {
+			"last" : "Whitehouse",
+			"first" : "Sheldon"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "WY"
+			},
+			{
+				"state" : "WY"
+			}
+		],
+		"id" : {
+			"bioguide" : "B001261"
+		},
+		"name" : {
+			"last" : "Barrasso",
+			"first" : "John"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "MS"
+			},
+			{
+				"state" : "MS"
+			},
+			{
+				"state" : "MS"
+			},
+			{
+				"state" : "MS"
+			},
+			{
+				"state" : "MS"
+			},
+			{
+				"state" : "MS"
+			},
+			{
+				"state" : "MS"
+			},
+			{
+				"state" : "MS"
+			},
+			{
+				"state" : "MS"
+			}
+		],
+		"id" : {
+			"bioguide" : "W000437"
+		},
+		"name" : {
+			"last" : "Wicker",
+			"first" : "Roger"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "TN"
+			},
+			{
+				"state" : "TN"
+			}
+		],
+		"id" : {
+			"bioguide" : "A000360"
+		},
+		"name" : {
+			"last" : "Alexander",
+			"first" : "Lamar"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "MT"
+			},
+			{
+				"state" : "MT"
+			},
+			{
+				"state" : "MT"
+			},
+			{
+				"state" : "MT"
+			},
+			{
+				"state" : "MT"
+			},
+			{
+				"state" : "MT"
+			},
+			{
+				"state" : "MT"
+			},
+			{
+				"state" : "MT"
+			},
+			{
+				"state" : "MT"
+			}
+		],
+		"id" : {
+			"bioguide" : "B000243"
+		},
+		"name" : {
+			"last" : "Baucus",
+			"first" : "Max"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "AK"
+			}
+		],
+		"id" : {
+			"bioguide" : "B001265"
+		},
+		"name" : {
+			"last" : "Begich",
+			"first" : "Mark"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "HI"
+			}
+		],
+		"id" : {
+			"bioguide" : "S001194"
+		},
+		"name" : {
+			"last" : "Schatz",
+			"first" : "Brian"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "GA"
+			},
+			{
+				"state" : "GA"
+			},
+			{
+				"state" : "GA"
+			},
+			{
+				"state" : "GA"
+			},
+			{
+				"state" : "GA"
+			},
+			{
+				"state" : "GA"
+			}
+		],
+		"id" : {
+			"bioguide" : "C000286"
+		},
+		"name" : {
+			"last" : "Chambliss",
+			"first" : "Saxby"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "MS"
+			},
+			{
+				"state" : "MS"
+			},
+			{
+				"state" : "MS"
+			},
+			{
+				"state" : "MS"
+			},
+			{
+				"state" : "MS"
+			},
+			{
+				"state" : "MS"
+			},
+			{
+				"state" : "MS"
+			},
+			{
+				"state" : "MS"
+			},
+			{
+				"state" : "MS"
+			},
+			{
+				"state" : "MS"
+			}
+		],
+		"id" : {
+			"bioguide" : "C000567"
+		},
+		"name" : {
+			"last" : "Cochran",
+			"first" : "Thad"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "ME"
+			},
+			{
+				"state" : "ME"
+			},
+			{
+				"state" : "ME"
+			}
+		],
+		"id" : {
+			"bioguide" : "C001035"
+		},
+		"name" : {
+			"last" : "Collins",
+			"first" : "Susan"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			}
+		],
+		"id" : {
+			"bioguide" : "C001056"
+		},
+		"name" : {
+			"last" : "Cornyn",
+			"first" : "John"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "IL"
+			},
+			{
+				"state" : "IL"
+			},
+			{
+				"state" : "IL"
+			},
+			{
+				"state" : "IL"
+			},
+			{
+				"state" : "IL"
+			},
+			{
+				"state" : "IL"
+			},
+			{
+				"state" : "IL"
+			},
+			{
+				"state" : "IL"
+			},
+			{
+				"state" : "IL"
+			},
+			{
+				"state" : "IL"
+			}
+		],
+		"id" : {
+			"bioguide" : "D000563"
+		},
+		"name" : {
+			"last" : "Durbin",
+			"first" : "Richard"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "WY"
+			},
+			{
+				"state" : "WY"
+			},
+			{
+				"state" : "WY"
+			}
+		],
+		"id" : {
+			"bioguide" : "E000285"
+		},
+		"name" : {
+			"last" : "Enzi",
+			"first" : "Michael"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "SC"
+			},
+			{
+				"state" : "SC"
+			},
+			{
+				"state" : "SC"
+			},
+			{
+				"state" : "SC"
+			},
+			{
+				"state" : "SC"
+			},
+			{
+				"state" : "SC"
+			}
+		],
+		"id" : {
+			"bioguide" : "G000359"
+		},
+		"name" : {
+			"last" : "Graham",
+			"first" : "Lindsey"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "NC"
+			}
+		],
+		"id" : {
+			"bioguide" : "H001049"
+		},
+		"name" : {
+			"last" : "Hagan",
+			"first" : "Kay"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "IA"
+			},
+			{
+				"state" : "IA"
+			},
+			{
+				"state" : "IA"
+			},
+			{
+				"state" : "IA"
+			},
+			{
+				"state" : "IA"
+			},
+			{
+				"state" : "IA"
+			},
+			{
+				"state" : "IA"
+			},
+			{
+				"state" : "IA"
+			},
+			{
+				"state" : "IA"
+			},
+			{
+				"state" : "IA"
+			}
+		],
+		"id" : {
+			"bioguide" : "H000206"
+		},
+		"name" : {
+			"last" : "Harkin",
+			"first" : "Thomas"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "OK"
+			},
+			{
+				"state" : "OK"
+			},
+			{
+				"state" : "OK"
+			},
+			{
+				"state" : "OK"
+			},
+			{
+				"state" : "OK"
+			},
+			{
+				"state" : "OK"
+			},
+			{
+				"state" : "OK"
+			},
+			{
+				"state" : "OK"
+			}
+		],
+		"id" : {
+			"bioguide" : "I000024"
+		},
+		"name" : {
+			"first" : "James",
+			"last" : "Inhofe"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "NE"
+			}
+		],
+		"id" : {
+			"bioguide" : "J000291"
+		},
+		"name" : {
+			"last" : "Johanns",
+			"first" : "Mike"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "SD"
+			},
+			{
+				"state" : "SD"
+			},
+			{
+				"state" : "SD"
+			},
+			{
+				"state" : "SD"
+			},
+			{
+				"state" : "SD"
+			},
+			{
+				"state" : "SD"
+			},
+			{
+				"state" : "SD"
+			},
+			{
+				"state" : "SD"
+			}
+		],
+		"id" : {
+			"bioguide" : "J000177"
+		},
+		"name" : {
+			"last" : "Johnson",
+			"first" : "Tim"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "MA"
+			},
+			{
+				"state" : "MA"
+			},
+			{
+				"state" : "MA"
+			},
+			{
+				"state" : "MA"
+			},
+			{
+				"state" : "MA"
+			}
+		],
+		"id" : {
+			"bioguide" : "K000148"
+		},
+		"name" : {
+			"last" : "Kerry",
+			"first" : "John"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "LA"
+			},
+			{
+				"state" : "LA"
+			},
+			{
+				"state" : "LA"
+			}
+		],
+		"id" : {
+			"bioguide" : "L000550"
+		},
+		"name" : {
+			"last" : "Landrieu",
+			"first" : "Mary"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "NJ"
+			},
+			{
+				"state" : "NJ"
+			},
+			{
+				"state" : "NJ"
+			},
+			{
+				"state" : "NJ"
+			},
+			{
+				"state" : "NJ"
+			}
+		],
+		"id" : {
+			"bioguide" : "L000123"
+		},
+		"name" : {
+			"last" : "Lautenberg",
+			"first" : "Frank"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "MI"
+			},
+			{
+				"state" : "MI"
+			},
+			{
+				"state" : "MI"
+			},
+			{
+				"state" : "MI"
+			},
+			{
+				"state" : "MI"
+			},
+			{
+				"state" : "MI"
+			}
+		],
+		"id" : {
+			"bioguide" : "L000261"
+		},
+		"name" : {
+			"last" : "Levin",
+			"first" : "Carl"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "KY"
+			},
+			{
+				"state" : "KY"
+			},
+			{
+				"state" : "KY"
+			},
+			{
+				"state" : "KY"
+			},
+			{
+				"state" : "KY"
+			}
+		],
+		"id" : {
+			"bioguide" : "M000355"
+		},
+		"name" : {
+			"last" : "McConnell",
+			"first" : "Mitch"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "OR"
+			}
+		],
+		"id" : {
+			"bioguide" : "M001176"
+		},
+		"name" : {
+			"last" : "Merkley",
+			"first" : "Jeff"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "AR"
+			},
+			{
+				"state" : "AR"
+			}
+		],
+		"id" : {
+			"bioguide" : "P000590"
+		},
+		"name" : {
+			"last" : "Pryor",
+			"first" : "Mark"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "RI"
+			},
+			{
+				"state" : "RI"
+			},
+			{
+				"state" : "RI"
+			},
+			{
+				"state" : "RI"
+			},
+			{
+				"state" : "RI"
+			},
+			{
+				"state" : "RI"
+			}
+		],
+		"id" : {
+			"bioguide" : "R000122"
+		},
+		"name" : {
+			"first" : "John",
+			"last" : "Reed"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "ID"
+			}
+		],
+		"id" : {
+			"bioguide" : "R000584"
+		},
+		"name" : {
+			"last" : "Risch",
+			"first" : "James"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "KS"
+			},
+			{
+				"state" : "KS"
+			},
+			{
+				"state" : "KS"
+			},
+			{
+				"state" : "KS"
+			},
+			{
+				"state" : "KS"
+			},
+			{
+				"state" : "KS"
+			},
+			{
+				"state" : "KS"
+			},
+			{
+				"state" : "KS"
+			},
+			{
+				"state" : "KS"
+			},
+			{
+				"state" : "KS"
+			},
+			{
+				"state" : "KS"
+			}
+		],
+		"id" : {
+			"bioguide" : "R000307"
+		},
+		"name" : {
+			"last" : "Roberts",
+			"first" : "Pat"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "WV"
+			},
+			{
+				"state" : "WV"
+			},
+			{
+				"state" : "WV"
+			},
+			{
+				"state" : "WV"
+			},
+			{
+				"state" : "WV"
+			}
+		],
+		"id" : {
+			"bioguide" : "R000361"
+		},
+		"name" : {
+			"last" : "Rockefeller",
+			"first" : "John"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "AL"
+			},
+			{
+				"state" : "AL"
+			},
+			{
+				"state" : "AL"
+			}
+		],
+		"id" : {
+			"bioguide" : "S001141"
+		},
+		"name" : {
+			"first" : "Jefferson",
+			"last" : "Sessions"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "NH"
+			}
+		],
+		"id" : {
+			"bioguide" : "S001181"
+		},
+		"name" : {
+			"last" : "Shaheen",
+			"first" : "Jeanne"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "CO"
+			},
+			{
+				"state" : "CO"
+			},
+			{
+				"state" : "CO"
+			},
+			{
+				"state" : "CO"
+			},
+			{
+				"state" : "CO"
+			},
+			{
+				"state" : "CO"
+			}
+		],
+		"id" : {
+			"bioguide" : "U000038"
+		},
+		"name" : {
+			"last" : "Udall",
+			"first" : "Mark"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "NM"
+			},
+			{
+				"state" : "NM"
+			},
+			{
+				"state" : "NM"
+			},
+			{
+				"state" : "NM"
+			},
+			{
+				"state" : "NM"
+			},
+			{
+				"state" : "NM"
+			}
+		],
+		"id" : {
+			"bioguide" : "U000039"
+		},
+		"name" : {
+			"last" : "Udall",
+			"first" : "Tom"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "VA"
+			}
+		],
+		"id" : {
+			"bioguide" : "W000805"
+		},
+		"name" : {
+			"last" : "Warner",
+			"first" : "Mark"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "NY"
+			},
+			{
+				"state" : "NY"
+			},
+			{
+				"state" : "NY"
+			},
+			{
+				"state" : "NY"
+			}
+		],
+		"id" : {
+			"bioguide" : "G000555"
+		},
+		"name" : {
+			"last" : "Gillibrand",
+			"first" : "Kirsten"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "MN"
+			}
+		],
+		"id" : {
+			"bioguide" : "F000457"
+		},
+		"name" : {
+			"last" : "Franken",
+			"first" : "Al"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "DE"
+			}
+		],
+		"id" : {
+			"bioguide" : "C001088"
+		},
+		"name" : {
+			"last" : "Coons",
+			"first" : "Chris"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "WV"
+			},
+			{
+				"state" : "WV"
+			}
+		],
+		"id" : {
+			"bioguide" : "M001183"
+		},
+		"name" : {
+			"last" : "Manchin",
+			"first" : "Joe"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "AL"
+			},
+			{
+				"state" : "AL"
+			},
+			{
+				"state" : "AL"
+			},
+			{
+				"state" : "AL"
+			},
+			{
+				"state" : "AL"
+			},
+			{
+				"state" : "AL"
+			},
+			{
+				"state" : "AL"
+			},
+			{
+				"state" : "AL"
+			},
+			{
+				"state" : "AL"
+			}
+		],
+		"id" : {
+			"bioguide" : "A000055"
+		},
+		"name" : {
+			"last" : "Aderholt",
+			"first" : "Robert"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "LA"
+			},
+			{
+				"state" : "LA"
+			},
+			{
+				"state" : "LA"
+			},
+			{
+				"state" : "LA"
+			},
+			{
+				"state" : "LA"
+			},
+			{
+				"state" : "LA"
+			}
+		],
+		"id" : {
+			"bioguide" : "A000361"
+		},
+		"name" : {
+			"last" : "Alexander",
+			"first" : "Rodney"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "MI"
+			},
+			{
+				"state" : "MI"
+			}
+		],
+		"id" : {
+			"bioguide" : "A000367"
+		},
+		"name" : {
+			"last" : "Amash",
+			"first" : "Justin"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "NJ"
+			},
+			{
+				"state" : "NJ"
+			},
+			{
+				"state" : "NJ"
+			},
+			{
+				"state" : "NJ"
+			},
+			{
+				"state" : "NJ"
+			},
+			{
+				"state" : "NJ"
+			},
+			{
+				"state" : "NJ"
+			},
+			{
+				"state" : "NJ"
+			},
+			{
+				"state" : "NJ"
+			},
+			{
+				"state" : "NJ"
+			},
+			{
+				"state" : "NJ"
+			},
+			{
+				"state" : "NJ"
+			},
+			{
+				"state" : "NJ"
+			}
+		],
+		"id" : {
+			"bioguide" : "A000210"
+		},
+		"name" : {
+			"first" : "Robert",
+			"last" : "Andrews"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "NH"
+			}
+		],
+		"id" : {
+			"bioguide" : "A000368"
+		},
+		"name" : {
+			"last" : "Ayotte",
+			"first" : "Kelly"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "MN"
+			},
+			{
+				"state" : "MN"
+			},
+			{
+				"state" : "MN"
+			},
+			{
+				"state" : "MN"
+			}
+		],
+		"id" : {
+			"bioguide" : "B001256"
+		},
+		"name" : {
+			"last" : "Bachmann",
+			"first" : "Michele"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "AL"
+			},
+			{
+				"state" : "AL"
+			},
+			{
+				"state" : "AL"
+			},
+			{
+				"state" : "AL"
+			},
+			{
+				"state" : "AL"
+			},
+			{
+				"state" : "AL"
+			},
+			{
+				"state" : "AL"
+			},
+			{
+				"state" : "AL"
+			},
+			{
+				"state" : "AL"
+			},
+			{
+				"state" : "AL"
+			},
+			{
+				"state" : "AL"
+			}
+		],
+		"id" : {
+			"bioguide" : "B000013"
+		},
+		"name" : {
+			"first" : "Spencer",
+			"last" : "Bachus"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "WI"
+			},
+			{
+				"state" : "WI"
+			},
+			{
+				"state" : "WI"
+			},
+			{
+				"state" : "WI"
+			},
+			{
+				"state" : "WI"
+			},
+			{
+				"state" : "WI"
+			},
+			{
+				"state" : "WI"
+			},
+			{
+				"state" : "WI"
+			}
+		],
+		"id" : {
+			"bioguide" : "B001230"
+		},
+		"name" : {
+			"last" : "Baldwin",
+			"first" : "Tammy"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "PA"
+			},
+			{
+				"state" : "PA"
+			}
+		],
+		"id" : {
+			"bioguide" : "B001269"
+		},
+		"name" : {
+			"last" : "Barletta",
+			"first" : "Lou"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "GA"
+			},
+			{
+				"state" : "GA"
+			},
+			{
+				"state" : "GA"
+			},
+			{
+				"state" : "GA"
+			},
+			{
+				"state" : "GA"
+			}
+		],
+		"id" : {
+			"bioguide" : "B001252"
+		},
+		"name" : {
+			"last" : "Barrow",
+			"first" : "John"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			}
+		],
+		"id" : {
+			"bioguide" : "B000213"
+		},
+		"name" : {
+			"last" : "Barton",
+			"first" : "Joe"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			}
+		],
+		"id" : {
+			"bioguide" : "B001270"
+		},
+		"name" : {
+			"last" : "Bass",
+			"first" : "Karen"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			}
+		],
+		"id" : {
+			"bioguide" : "B000287"
+		},
+		"name" : {
+			"last" : "Becerra",
+			"first" : "Xavier"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "MI"
+			},
+			{
+				"state" : "MI"
+			}
+		],
+		"id" : {
+			"bioguide" : "B001271"
+		},
+		"name" : {
+			"last" : "Benishek",
+			"first" : "Dan"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "CO"
+			},
+			{
+				"state" : "CO"
+			}
+		],
+		"id" : {
+			"bioguide" : "B001267"
+		},
+		"name" : {
+			"last" : "Bennet",
+			"first" : "Michael"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "FL"
+			},
+			{
+				"state" : "FL"
+			},
+			{
+				"state" : "FL"
+			},
+			{
+				"state" : "FL"
+			}
+		],
+		"id" : {
+			"bioguide" : "B001257"
+		},
+		"name" : {
+			"last" : "Bilirakis",
+			"first" : "Gus"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "UT"
+			},
+			{
+				"state" : "UT"
+			},
+			{
+				"state" : "UT"
+			},
+			{
+				"state" : "UT"
+			},
+			{
+				"state" : "UT"
+			},
+			{
+				"state" : "UT"
+			}
+		],
+		"id" : {
+			"bioguide" : "B001250"
+		},
+		"name" : {
+			"last" : "Bishop",
+			"first" : "Rob"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "GA"
+			},
+			{
+				"state" : "GA"
+			},
+			{
+				"state" : "GA"
+			},
+			{
+				"state" : "GA"
+			},
+			{
+				"state" : "GA"
+			},
+			{
+				"state" : "GA"
+			},
+			{
+				"state" : "GA"
+			},
+			{
+				"state" : "GA"
+			},
+			{
+				"state" : "GA"
+			},
+			{
+				"state" : "GA"
+			},
+			{
+				"state" : "GA"
+			}
+		],
+		"id" : {
+			"bioguide" : "B000490"
+		},
+		"name" : {
+			"first" : "Sanford",
+			"last" : "Bishop"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "NY"
+			},
+			{
+				"state" : "NY"
+			},
+			{
+				"state" : "NY"
+			},
+			{
+				"state" : "NY"
+			},
+			{
+				"state" : "NY"
+			},
+			{
+				"state" : "NY"
+			}
+		],
+		"id" : {
+			"bioguide" : "B001242"
+		},
+		"name" : {
+			"last" : "Bishop",
+			"first" : "Timothy"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "TN"
+			},
+			{
+				"state" : "TN"
+			}
+		],
+		"id" : {
+			"bioguide" : "B001273"
+		},
+		"name" : {
+			"last" : "Black",
+			"first" : "Diane"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "TN"
+			},
+			{
+				"state" : "TN"
+			},
+			{
+				"state" : "TN"
+			},
+			{
+				"state" : "TN"
+			},
+			{
+				"state" : "TN"
+			},
+			{
+				"state" : "TN"
+			}
+		],
+		"id" : {
+			"bioguide" : "B001243"
+		},
+		"name" : {
+			"last" : "Blackburn",
+			"first" : "Marsha"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "OR"
+			},
+			{
+				"state" : "OR"
+			},
+			{
+				"state" : "OR"
+			},
+			{
+				"state" : "OR"
+			},
+			{
+				"state" : "OR"
+			},
+			{
+				"state" : "OR"
+			},
+			{
+				"state" : "OR"
+			},
+			{
+				"state" : "OR"
+			},
+			{
+				"state" : "OR"
+			},
+			{
+				"state" : "OR"
+			}
+		],
+		"id" : {
+			"bioguide" : "B000574"
+		},
+		"name" : {
+			"last" : "Blumenauer",
+			"first" : "Earl"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "CT"
+			}
+		],
+		"id" : {
+			"bioguide" : "B001277"
+		},
+		"name" : {
+			"last" : "Blumenthal",
+			"first" : "Richard"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "MO"
+			},
+			{
+				"state" : "MO"
+			},
+			{
+				"state" : "MO"
+			},
+			{
+				"state" : "MO"
+			},
+			{
+				"state" : "MO"
+			},
+			{
+				"state" : "MO"
+			},
+			{
+				"state" : "MO"
+			},
+			{
+				"state" : "MO"
+			}
+		],
+		"id" : {
+			"bioguide" : "B000575"
+		},
+		"name" : {
+			"last" : "Blunt",
+			"first" : "Roy"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "OH"
+			},
+			{
+				"state" : "OH"
+			},
+			{
+				"state" : "OH"
+			},
+			{
+				"state" : "OH"
+			},
+			{
+				"state" : "OH"
+			},
+			{
+				"state" : "OH"
+			},
+			{
+				"state" : "OH"
+			},
+			{
+				"state" : "OH"
+			},
+			{
+				"state" : "OH"
+			},
+			{
+				"state" : "OH"
+			},
+			{
+				"state" : "OH"
+			},
+			{
+				"state" : "OH"
+			}
+		],
+		"id" : {
+			"bioguide" : "B000589"
+		},
+		"name" : {
+			"last" : "Boehner",
+			"first" : "John"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "AL"
+			},
+			{
+				"state" : "AL"
+			},
+			{
+				"state" : "AL"
+			},
+			{
+				"state" : "AL"
+			},
+			{
+				"state" : "AL"
+			},
+			{
+				"state" : "AL"
+			}
+		],
+		"id" : {
+			"bioguide" : "B001244"
+		},
+		"name" : {
+			"last" : "Bonner",
+			"first" : "Jo"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "AR"
+			},
+			{
+				"state" : "AR"
+			},
+			{
+				"state" : "AR"
+			},
+			{
+				"state" : "AR"
+			},
+			{
+				"state" : "AR"
+			},
+			{
+				"state" : "AR"
+			}
+		],
+		"id" : {
+			"bioguide" : "B001236"
+		},
+		"name" : {
+			"last" : "Boozman",
+			"first" : "John"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "GU"
+			},
+			{
+				"state" : "GU"
+			},
+			{
+				"state" : "GU"
+			},
+			{
+				"state" : "GU"
+			},
+			{
+				"state" : "GU"
+			},
+			{
+				"state" : "GU"
+			}
+		],
+		"id" : {
+			"bioguide" : "B001245"
+		},
+		"name" : {
+			"last" : "Bordallo",
+			"first" : "Madeleine"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "LA"
+			},
+			{
+				"state" : "LA"
+			},
+			{
+				"state" : "LA"
+			},
+			{
+				"state" : "LA"
+			},
+			{
+				"state" : "LA"
+			}
+		],
+		"id" : {
+			"bioguide" : "B001255"
+		},
+		"name" : {
+			"first" : "Charles",
+			"last" : "Boustany"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			}
+		],
+		"id" : {
+			"bioguide" : "B000711"
+		},
+		"name" : {
+			"last" : "Boxer",
+			"first" : "Barbara"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			}
+		],
+		"id" : {
+			"bioguide" : "B000755"
+		},
+		"name" : {
+			"last" : "Brady",
+			"first" : "Kevin"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "PA"
+			},
+			{
+				"state" : "PA"
+			},
+			{
+				"state" : "PA"
+			},
+			{
+				"state" : "PA"
+			},
+			{
+				"state" : "PA"
+			},
+			{
+				"state" : "PA"
+			},
+			{
+				"state" : "PA"
+			},
+			{
+				"state" : "PA"
+			},
+			{
+				"state" : "PA"
+			}
+		],
+		"id" : {
+			"bioguide" : "B001227"
+		},
+		"name" : {
+			"last" : "Brady",
+			"first" : "Robert"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "IA"
+			},
+			{
+				"state" : "IA"
+			},
+			{
+				"state" : "IA"
+			},
+			{
+				"state" : "IA"
+			}
+		],
+		"id" : {
+			"bioguide" : "B001259"
+		},
+		"name" : {
+			"last" : "Braley",
+			"first" : "Bruce"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "AL"
+			},
+			{
+				"state" : "AL"
+			}
+		],
+		"id" : {
+			"bioguide" : "B001274"
+		},
+		"name" : {
+			"last" : "Brooks",
+			"first" : "Mo"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "GA"
+			},
+			{
+				"state" : "GA"
+			},
+			{
+				"state" : "GA"
+			},
+			{
+				"state" : "GA"
+			}
+		],
+		"id" : {
+			"bioguide" : "B001262"
+		},
+		"name" : {
+			"first" : "Paul",
+			"last" : "Broun"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "FL"
+			},
+			{
+				"state" : "FL"
+			},
+			{
+				"state" : "FL"
+			},
+			{
+				"state" : "FL"
+			},
+			{
+				"state" : "FL"
+			},
+			{
+				"state" : "FL"
+			},
+			{
+				"state" : "FL"
+			},
+			{
+				"state" : "FL"
+			},
+			{
+				"state" : "FL"
+			},
+			{
+				"state" : "FL"
+			},
+			{
+				"state" : "FL"
+			}
+		],
+		"id" : {
+			"bioguide" : "B000911"
+		},
+		"name" : {
+			"last" : "Brown",
+			"first" : "Corrine"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "FL"
+			},
+			{
+				"state" : "FL"
+			},
+			{
+				"state" : "FL"
+			},
+			{
+				"state" : "FL"
+			}
+		],
+		"id" : {
+			"bioguide" : "B001260"
+		},
+		"name" : {
+			"last" : "Buchanan",
+			"first" : "Vern"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "IN"
+			},
+			{
+				"state" : "IN"
+			}
+		],
+		"id" : {
+			"bioguide" : "B001275"
+		},
+		"name" : {
+			"last" : "Bucshon",
+			"first" : "Larry"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			}
+		],
+		"id" : {
+			"bioguide" : "B001248"
+		},
+		"name" : {
+			"last" : "Burgess",
+			"first" : "Michael"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "NC"
+			},
+			{
+				"state" : "NC"
+			},
+			{
+				"state" : "NC"
+			},
+			{
+				"state" : "NC"
+			},
+			{
+				"state" : "NC"
+			},
+			{
+				"state" : "NC"
+			},
+			{
+				"state" : "NC"
+			}
+		],
+		"id" : {
+			"bioguide" : "B001135"
+		},
+		"name" : {
+			"last" : "Burr",
+			"first" : "Richard"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "NC"
+			},
+			{
+				"state" : "NC"
+			},
+			{
+				"state" : "NC"
+			},
+			{
+				"state" : "NC"
+			},
+			{
+				"state" : "NC"
+			},
+			{
+				"state" : "NC"
+			}
+		],
+		"id" : {
+			"bioguide" : "B001251"
+		},
+		"name" : {
+			"last" : "Butterfield",
+			"first" : "George"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			}
+		],
+		"id" : {
+			"bioguide" : "C000059"
+		},
+		"name" : {
+			"last" : "Calvert",
+			"first" : "Ken"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "MI"
+			},
+			{
+				"state" : "MI"
+			},
+			{
+				"state" : "MI"
+			},
+			{
+				"state" : "MI"
+			},
+			{
+				"state" : "MI"
+			},
+			{
+				"state" : "MI"
+			},
+			{
+				"state" : "MI"
+			},
+			{
+				"state" : "MI"
+			},
+			{
+				"state" : "MI"
+			},
+			{
+				"state" : "MI"
+			},
+			{
+				"state" : "MI"
+			},
+			{
+				"state" : "MI"
+			}
+		],
+		"id" : {
+			"bioguide" : "C000071"
+		},
+		"name" : {
+			"last" : "Camp",
+			"first" : "Dave"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			}
+		],
+		"id" : {
+			"bioguide" : "C001064"
+		},
+		"name" : {
+			"first" : "John",
+			"last" : "Campbell"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "VA"
+			},
+			{
+				"state" : "VA"
+			},
+			{
+				"state" : "VA"
+			},
+			{
+				"state" : "VA"
+			},
+			{
+				"state" : "VA"
+			},
+			{
+				"state" : "VA"
+			},
+			{
+				"state" : "VA"
+			}
+		],
+		"id" : {
+			"bioguide" : "C001046"
+		},
+		"name" : {
+			"last" : "Cantor",
+			"first" : "Eric"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "WV"
+			},
+			{
+				"state" : "WV"
+			},
+			{
+				"state" : "WV"
+			},
+			{
+				"state" : "WV"
+			},
+			{
+				"state" : "WV"
+			},
+			{
+				"state" : "WV"
+			},
+			{
+				"state" : "WV"
+			}
+		],
+		"id" : {
+			"bioguide" : "C001047"
+		},
+		"name" : {
+			"last" : "Capito",
+			"first" : "Shelley"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			}
+		],
+		"id" : {
+			"bioguide" : "C001036"
+		},
+		"name" : {
+			"last" : "Capps",
+			"first" : "Lois"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "MA"
+			},
+			{
+				"state" : "MA"
+			},
+			{
+				"state" : "MA"
+			},
+			{
+				"state" : "MA"
+			},
+			{
+				"state" : "MA"
+			},
+			{
+				"state" : "MA"
+			},
+			{
+				"state" : "MA"
+			},
+			{
+				"state" : "MA"
+			}
+		],
+		"id" : {
+			"bioguide" : "C001037"
+		},
+		"name" : {
+			"last" : "Capuano",
+			"first" : "Michael"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "DE"
+			},
+			{
+				"state" : "DE"
+			}
+		],
+		"id" : {
+			"bioguide" : "C001083"
+		},
+		"name" : {
+			"last" : "Carney",
+			"first" : "John"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "IN"
+			},
+			{
+				"state" : "IN"
+			},
+			{
+				"state" : "IN"
+			},
+			{
+				"state" : "IN"
+			}
+		],
+		"id" : {
+			"bioguide" : "C001072"
+		},
+		"name" : {
+			"last" : "Carson",
+			"first" : "André"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			}
+		],
+		"id" : {
+			"bioguide" : "C001051"
+		},
+		"name" : {
+			"last" : "Carter",
+			"first" : "John"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "LA"
+			},
+			{
+				"state" : "LA"
+			},
+			{
+				"state" : "LA"
+			}
+		],
+		"id" : {
+			"bioguide" : "C001075"
+		},
+		"name" : {
+			"last" : "Cassidy",
+			"first" : "Bill"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "FL"
+			},
+			{
+				"state" : "FL"
+			},
+			{
+				"state" : "FL"
+			},
+			{
+				"state" : "FL"
+			}
+		],
+		"id" : {
+			"bioguide" : "C001066"
+		},
+		"name" : {
+			"last" : "Castor",
+			"first" : "Kathy"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "OH"
+			},
+			{
+				"state" : "OH"
+			},
+			{
+				"state" : "OH"
+			},
+			{
+				"state" : "OH"
+			},
+			{
+				"state" : "OH"
+			},
+			{
+				"state" : "OH"
+			},
+			{
+				"state" : "OH"
+			},
+			{
+				"state" : "OH"
+			},
+			{
+				"state" : "OH"
+			}
+		],
+		"id" : {
+			"bioguide" : "C000266"
+		},
+		"name" : {
+			"last" : "Chabot",
+			"first" : "Steve"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "UT"
+			},
+			{
+				"state" : "UT"
+			},
+			{
+				"state" : "UT"
+			}
+		],
+		"id" : {
+			"bioguide" : "C001076"
+		},
+		"name" : {
+			"last" : "Chaffetz",
+			"first" : "Jason"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "VI"
+			},
+			{
+				"state" : "VI"
+			},
+			{
+				"state" : "VI"
+			},
+			{
+				"state" : "VI"
+			},
+			{
+				"state" : "VI"
+			},
+			{
+				"state" : "VI"
+			},
+			{
+				"state" : "VI"
+			},
+			{
+				"state" : "VI"
+			},
+			{
+				"state" : "VI"
+			}
+		],
+		"id" : {
+			"bioguide" : "C000380"
+		},
+		"name" : {
+			"last" : "Christensen",
+			"first" : "Donna"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			}
+		],
+		"id" : {
+			"bioguide" : "C001080"
+		},
+		"name" : {
+			"last" : "Chu",
+			"first" : "Judy"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "RI"
+			},
+			{
+				"state" : "RI"
+			}
+		],
+		"id" : {
+			"bioguide" : "C001084"
+		},
+		"name" : {
+			"last" : "Cicilline",
+			"first" : "David"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "NY"
+			},
+			{
+				"state" : "NY"
+			},
+			{
+				"state" : "NY"
+			},
+			{
+				"state" : "NY"
+			}
+		],
+		"id" : {
+			"bioguide" : "C001067"
+		},
+		"name" : {
+			"last" : "Clarke",
+			"first" : "Yvette"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "MO"
+			},
+			{
+				"state" : "MO"
+			},
+			{
+				"state" : "MO"
+			},
+			{
+				"state" : "MO"
+			},
+			{
+				"state" : "MO"
+			},
+			{
+				"state" : "MO"
+			},
+			{
+				"state" : "MO"
+			}
+		],
+		"id" : {
+			"bioguide" : "C001049"
+		},
+		"name" : {
+			"first" : "Wm.",
+			"last" : "Clay"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "MO"
+			},
+			{
+				"state" : "MO"
+			},
+			{
+				"state" : "MO"
+			},
+			{
+				"state" : "MO"
+			},
+			{
+				"state" : "MO"
+			}
+		],
+		"id" : {
+			"bioguide" : "C001061"
+		},
+		"name" : {
+			"last" : "Cleaver",
+			"first" : "Emanuel"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "SC"
+			},
+			{
+				"state" : "SC"
+			},
+			{
+				"state" : "SC"
+			},
+			{
+				"state" : "SC"
+			},
+			{
+				"state" : "SC"
+			},
+			{
+				"state" : "SC"
+			},
+			{
+				"state" : "SC"
+			},
+			{
+				"state" : "SC"
+			},
+			{
+				"state" : "SC"
+			},
+			{
+				"state" : "SC"
+			},
+			{
+				"state" : "SC"
+			}
+		],
+		"id" : {
+			"bioguide" : "C000537"
+		},
+		"name" : {
+			"first" : "James",
+			"last" : "Clyburn"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "IN"
+			},
+			{
+				"state" : "IN"
+			},
+			{
+				"state" : "IN"
+			},
+			{
+				"state" : "IN"
+			},
+			{
+				"state" : "IN"
+			},
+			{
+				"state" : "IN"
+			},
+			{
+				"state" : "IN"
+			}
+		],
+		"id" : {
+			"bioguide" : "C000542"
+		},
+		"name" : {
+			"last" : "Coats",
+			"first" : "Daniel"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "NC"
+			},
+			{
+				"state" : "NC"
+			},
+			{
+				"state" : "NC"
+			},
+			{
+				"state" : "NC"
+			},
+			{
+				"state" : "NC"
+			},
+			{
+				"state" : "NC"
+			},
+			{
+				"state" : "NC"
+			},
+			{
+				"state" : "NC"
+			},
+			{
+				"state" : "NC"
+			},
+			{
+				"state" : "NC"
+			},
+			{
+				"state" : "NC"
+			},
+			{
+				"state" : "NC"
+			},
+			{
+				"state" : "NC"
+			},
+			{
+				"state" : "NC"
+			},
+			{
+				"state" : "NC"
+			}
+		],
+		"id" : {
+			"bioguide" : "C000556"
+		},
+		"name" : {
+			"last" : "Coble",
+			"first" : "Howard"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "OK"
+			},
+			{
+				"state" : "OK"
+			},
+			{
+				"state" : "OK"
+			},
+			{
+				"state" : "OK"
+			},
+			{
+				"state" : "OK"
+			}
+		],
+		"id" : {
+			"bioguide" : "C000560"
+		},
+		"name" : {
+			"last" : "Coburn",
+			"first" : "Thomas"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "CO"
+			},
+			{
+				"state" : "CO"
+			},
+			{
+				"state" : "CO"
+			}
+		],
+		"id" : {
+			"bioguide" : "C001077"
+		},
+		"name" : {
+			"last" : "Coffman",
+			"first" : "Mike"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "TN"
+			},
+			{
+				"state" : "TN"
+			},
+			{
+				"state" : "TN"
+			},
+			{
+				"state" : "TN"
+			}
+		],
+		"id" : {
+			"bioguide" : "C001068"
+		},
+		"name" : {
+			"last" : "Cohen",
+			"first" : "Steve"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "OK"
+			},
+			{
+				"state" : "OK"
+			},
+			{
+				"state" : "OK"
+			},
+			{
+				"state" : "OK"
+			},
+			{
+				"state" : "OK"
+			},
+			{
+				"state" : "OK"
+			}
+		],
+		"id" : {
+			"bioguide" : "C001053"
+		},
+		"name" : {
+			"last" : "Cole",
+			"first" : "Tom"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			}
+		],
+		"id" : {
+			"bioguide" : "C001062"
+		},
+		"name" : {
+			"last" : "Conaway",
+			"first" : "K."
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "VA"
+			},
+			{
+				"state" : "VA"
+			},
+			{
+				"state" : "VA"
+			}
+		],
+		"id" : {
+			"bioguide" : "C001078"
+		},
+		"name" : {
+			"last" : "Connolly",
+			"first" : "Gerald"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "MI"
+			},
+			{
+				"state" : "MI"
+			},
+			{
+				"state" : "MI"
+			},
+			{
+				"state" : "MI"
+			},
+			{
+				"state" : "MI"
+			},
+			{
+				"state" : "MI"
+			},
+			{
+				"state" : "MI"
+			},
+			{
+				"state" : "MI"
+			},
+			{
+				"state" : "MI"
+			},
+			{
+				"state" : "MI"
+			},
+			{
+				"state" : "MI"
+			},
+			{
+				"state" : "MI"
+			},
+			{
+				"state" : "MI"
+			},
+			{
+				"state" : "MI"
+			},
+			{
+				"state" : "MI"
+			},
+			{
+				"state" : "MI"
+			},
+			{
+				"state" : "MI"
+			},
+			{
+				"state" : "MI"
+			},
+			{
+				"state" : "MI"
+			},
+			{
+				"state" : "MI"
+			},
+			{
+				"state" : "MI"
+			},
+			{
+				"state" : "MI"
+			},
+			{
+				"state" : "MI"
+			},
+			{
+				"state" : "MI"
+			},
+			{
+				"state" : "MI"
+			}
+		],
+		"id" : {
+			"bioguide" : "C000714"
+		},
+		"name" : {
+			"last" : "Conyers",
+			"first" : "John"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "TN"
+			},
+			{
+				"state" : "TN"
+			},
+			{
+				"state" : "TN"
+			},
+			{
+				"state" : "TN"
+			},
+			{
+				"state" : "TN"
+			},
+			{
+				"state" : "TN"
+			},
+			{
+				"state" : "TN"
+			},
+			{
+				"state" : "TN"
+			},
+			{
+				"state" : "TN"
+			},
+			{
+				"state" : "TN"
+			},
+			{
+				"state" : "TN"
+			},
+			{
+				"state" : "TN"
+			}
+		],
+		"id" : {
+			"bioguide" : "C000754"
+		},
+		"name" : {
+			"last" : "Cooper",
+			"first" : "Jim"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			}
+		],
+		"id" : {
+			"bioguide" : "C001059"
+		},
+		"name" : {
+			"last" : "Costa",
+			"first" : "Jim"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "CT"
+			},
+			{
+				"state" : "CT"
+			},
+			{
+				"state" : "CT"
+			},
+			{
+				"state" : "CT"
+			}
+		],
+		"id" : {
+			"bioguide" : "C001069"
+		},
+		"name" : {
+			"last" : "Courtney",
+			"first" : "Joe"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "ID"
+			},
+			{
+				"state" : "ID"
+			},
+			{
+				"state" : "ID"
+			},
+			{
+				"state" : "ID"
+			},
+			{
+				"state" : "ID"
+			},
+			{
+				"state" : "ID"
+			}
+		],
+		"id" : {
+			"bioguide" : "C000880"
+		},
+		"name" : {
+			"last" : "Crapo",
+			"first" : "Michael"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "AR"
+			},
+			{
+				"state" : "AR"
+			}
+		],
+		"id" : {
+			"bioguide" : "C001087"
+		},
+		"name" : {
+			"last" : "Crawford",
+			"first" : "Eric"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "FL"
+			},
+			{
+				"state" : "FL"
+			},
+			{
+				"state" : "FL"
+			},
+			{
+				"state" : "FL"
+			},
+			{
+				"state" : "FL"
+			},
+			{
+				"state" : "FL"
+			},
+			{
+				"state" : "FL"
+			}
+		],
+		"id" : {
+			"bioguide" : "C001045"
+		},
+		"name" : {
+			"last" : "Crenshaw",
+			"first" : "Ander"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "NY"
+			},
+			{
+				"state" : "NY"
+			},
+			{
+				"state" : "NY"
+			},
+			{
+				"state" : "NY"
+			},
+			{
+				"state" : "NY"
+			},
+			{
+				"state" : "NY"
+			},
+			{
+				"state" : "NY"
+			},
+			{
+				"state" : "NY"
+			}
+		],
+		"id" : {
+			"bioguide" : "C001038"
+		},
+		"name" : {
+			"last" : "Crowley",
+			"first" : "Joseph"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			}
+		],
+		"id" : {
+			"bioguide" : "C001063"
+		},
+		"name" : {
+			"last" : "Cuellar",
+			"first" : "Henry"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			}
+		],
+		"id" : {
+			"bioguide" : "C001048"
+		},
+		"name" : {
+			"last" : "Culberson",
+			"first" : "John"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "MD"
+			},
+			{
+				"state" : "MD"
+			},
+			{
+				"state" : "MD"
+			},
+			{
+				"state" : "MD"
+			},
+			{
+				"state" : "MD"
+			},
+			{
+				"state" : "MD"
+			},
+			{
+				"state" : "MD"
+			},
+			{
+				"state" : "MD"
+			},
+			{
+				"state" : "MD"
+			},
+			{
+				"state" : "MD"
+			}
+		],
+		"id" : {
+			"bioguide" : "C000984"
+		},
+		"name" : {
+			"last" : "Cummings",
+			"first" : "Elijah"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "IL"
+			},
+			{
+				"state" : "IL"
+			},
+			{
+				"state" : "IL"
+			},
+			{
+				"state" : "IL"
+			},
+			{
+				"state" : "IL"
+			},
+			{
+				"state" : "IL"
+			},
+			{
+				"state" : "IL"
+			},
+			{
+				"state" : "IL"
+			},
+			{
+				"state" : "IL"
+			}
+		],
+		"id" : {
+			"bioguide" : "D000096"
+		},
+		"name" : {
+			"last" : "Davis",
+			"first" : "Danny"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			}
+		],
+		"id" : {
+			"bioguide" : "D000598"
+		},
+		"name" : {
+			"last" : "Davis",
+			"first" : "Susan"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "OR"
+			},
+			{
+				"state" : "OR"
+			},
+			{
+				"state" : "OR"
+			},
+			{
+				"state" : "OR"
+			},
+			{
+				"state" : "OR"
+			},
+			{
+				"state" : "OR"
+			},
+			{
+				"state" : "OR"
+			},
+			{
+				"state" : "OR"
+			},
+			{
+				"state" : "OR"
+			},
+			{
+				"state" : "OR"
+			},
+			{
+				"state" : "OR"
+			},
+			{
+				"state" : "OR"
+			},
+			{
+				"state" : "OR"
+			},
+			{
+				"state" : "OR"
+			}
+		],
+		"id" : {
+			"bioguide" : "D000191"
+		},
+		"name" : {
+			"last" : "DeFazio",
+			"first" : "Peter"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "CO"
+			},
+			{
+				"state" : "CO"
+			},
+			{
+				"state" : "CO"
+			},
+			{
+				"state" : "CO"
+			},
+			{
+				"state" : "CO"
+			},
+			{
+				"state" : "CO"
+			},
+			{
+				"state" : "CO"
+			},
+			{
+				"state" : "CO"
+			},
+			{
+				"state" : "CO"
+			}
+		],
+		"id" : {
+			"bioguide" : "D000197"
+		},
+		"name" : {
+			"last" : "DeGette",
+			"first" : "Diana"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "CT"
+			},
+			{
+				"state" : "CT"
+			},
+			{
+				"state" : "CT"
+			},
+			{
+				"state" : "CT"
+			},
+			{
+				"state" : "CT"
+			},
+			{
+				"state" : "CT"
+			},
+			{
+				"state" : "CT"
+			},
+			{
+				"state" : "CT"
+			},
+			{
+				"state" : "CT"
+			},
+			{
+				"state" : "CT"
+			},
+			{
+				"state" : "CT"
+			},
+			{
+				"state" : "CT"
+			}
+		],
+		"id" : {
+			"bioguide" : "D000216"
+		},
+		"name" : {
+			"last" : "DeLauro",
+			"first" : "Rosa"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			}
+		],
+		"id" : {
+			"bioguide" : "D000612"
+		},
+		"name" : {
+			"last" : "Denham",
+			"first" : "Jeff"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "PA"
+			},
+			{
+				"state" : "PA"
+			},
+			{
+				"state" : "PA"
+			},
+			{
+				"state" : "PA"
+			},
+			{
+				"state" : "PA"
+			}
+		],
+		"id" : {
+			"bioguide" : "D000604"
+		},
+		"name" : {
+			"last" : "Dent",
+			"first" : "Charles"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "TN"
+			},
+			{
+				"state" : "TN"
+			}
+		],
+		"id" : {
+			"bioguide" : "D000616"
+		},
+		"name" : {
+			"last" : "DesJarlais",
+			"first" : "Scott"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "FL"
+			},
+			{
+				"state" : "FL"
+			},
+			{
+				"state" : "FL"
+			}
+		],
+		"id" : {
+			"bioguide" : "D000610"
+		},
+		"name" : {
+			"last" : "Deutch",
+			"first" : "Theodore"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "FL"
+			},
+			{
+				"state" : "FL"
+			},
+			{
+				"state" : "FL"
+			},
+			{
+				"state" : "FL"
+			},
+			{
+				"state" : "FL"
+			},
+			{
+				"state" : "FL"
+			}
+		],
+		"id" : {
+			"bioguide" : "D000600"
+		},
+		"name" : {
+			"last" : "Diaz-Balart",
+			"first" : "Mario"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "MI"
+			},
+			{
+				"state" : "MI"
+			},
+			{
+				"state" : "MI"
+			},
+			{
+				"state" : "MI"
+			},
+			{
+				"state" : "MI"
+			},
+			{
+				"state" : "MI"
+			},
+			{
+				"state" : "MI"
+			},
+			{
+				"state" : "MI"
+			},
+			{
+				"state" : "MI"
+			},
+			{
+				"state" : "MI"
+			},
+			{
+				"state" : "MI"
+			},
+			{
+				"state" : "MI"
+			},
+			{
+				"state" : "MI"
+			},
+			{
+				"state" : "MI"
+			},
+			{
+				"state" : "MI"
+			},
+			{
+				"state" : "MI"
+			},
+			{
+				"state" : "MI"
+			},
+			{
+				"state" : "MI"
+			},
+			{
+				"state" : "MI"
+			},
+			{
+				"state" : "MI"
+			},
+			{
+				"state" : "MI"
+			},
+			{
+				"state" : "MI"
+			},
+			{
+				"state" : "MI"
+			},
+			{
+				"state" : "MI"
+			},
+			{
+				"state" : "MI"
+			},
+			{
+				"state" : "MI"
+			},
+			{
+				"state" : "MI"
+			},
+			{
+				"state" : "MI"
+			},
+			{
+				"state" : "MI"
+			},
+			{
+				"state" : "MI"
+			}
+		],
+		"id" : {
+			"bioguide" : "D000355"
+		},
+		"name" : {
+			"last" : "Dingell",
+			"first" : "John"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			}
+		],
+		"id" : {
+			"bioguide" : "D000399"
+		},
+		"name" : {
+			"last" : "Doggett",
+			"first" : "Lloyd"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "IN"
+			},
+			{
+				"state" : "IN"
+			},
+			{
+				"state" : "IN"
+			},
+			{
+				"state" : "IN"
+			}
+		],
+		"id" : {
+			"bioguide" : "D000607"
+		},
+		"name" : {
+			"last" : "Donnelly",
+			"first" : "Joe"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "PA"
+			},
+			{
+				"state" : "PA"
+			},
+			{
+				"state" : "PA"
+			},
+			{
+				"state" : "PA"
+			},
+			{
+				"state" : "PA"
+			},
+			{
+				"state" : "PA"
+			},
+			{
+				"state" : "PA"
+			},
+			{
+				"state" : "PA"
+			},
+			{
+				"state" : "PA"
+			},
+			{
+				"state" : "PA"
+			}
+		],
+		"id" : {
+			"bioguide" : "D000482"
+		},
+		"name" : {
+			"last" : "Doyle",
+			"first" : "Michael"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "WI"
+			},
+			{
+				"state" : "WI"
+			}
+		],
+		"id" : {
+			"bioguide" : "D000614"
+		},
+		"name" : {
+			"last" : "Duffy",
+			"first" : "Sean"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "SC"
+			},
+			{
+				"state" : "SC"
+			}
+		],
+		"id" : {
+			"bioguide" : "D000615"
+		},
+		"name" : {
+			"last" : "Duncan",
+			"first" : "Jeff"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "TN"
+			},
+			{
+				"state" : "TN"
+			},
+			{
+				"state" : "TN"
+			},
+			{
+				"state" : "TN"
+			},
+			{
+				"state" : "TN"
+			},
+			{
+				"state" : "TN"
+			},
+			{
+				"state" : "TN"
+			},
+			{
+				"state" : "TN"
+			},
+			{
+				"state" : "TN"
+			},
+			{
+				"state" : "TN"
+			},
+			{
+				"state" : "TN"
+			},
+			{
+				"state" : "TN"
+			},
+			{
+				"state" : "TN"
+			},
+			{
+				"state" : "TN"
+			}
+		],
+		"id" : {
+			"bioguide" : "D000533"
+		},
+		"name" : {
+			"last" : "Duncan",
+			"first" : "John"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "MD"
+			},
+			{
+				"state" : "MD"
+			},
+			{
+				"state" : "MD"
+			},
+			{
+				"state" : "MD"
+			}
+		],
+		"id" : {
+			"bioguide" : "E000290"
+		},
+		"name" : {
+			"last" : "Edwards",
+			"first" : "Donna"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "MN"
+			},
+			{
+				"state" : "MN"
+			},
+			{
+				"state" : "MN"
+			},
+			{
+				"state" : "MN"
+			}
+		],
+		"id" : {
+			"bioguide" : "E000288"
+		},
+		"name" : {
+			"last" : "Ellison",
+			"first" : "Keith"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "NC"
+			},
+			{
+				"state" : "NC"
+			}
+		],
+		"id" : {
+			"bioguide" : "E000291"
+		},
+		"name" : {
+			"last" : "Ellmers",
+			"first" : "Renee"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "NY"
+			},
+			{
+				"state" : "NY"
+			},
+			{
+				"state" : "NY"
+			},
+			{
+				"state" : "NY"
+			},
+			{
+				"state" : "NY"
+			},
+			{
+				"state" : "NY"
+			},
+			{
+				"state" : "NY"
+			},
+			{
+				"state" : "NY"
+			},
+			{
+				"state" : "NY"
+			},
+			{
+				"state" : "NY"
+			},
+			{
+				"state" : "NY"
+			},
+			{
+				"state" : "NY"
+			},
+			{
+				"state" : "NY"
+			}
+		],
+		"id" : {
+			"bioguide" : "E000179"
+		},
+		"name" : {
+			"last" : "Engel",
+			"first" : "Eliot"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			}
+		],
+		"id" : {
+			"bioguide" : "E000215"
+		},
+		"name" : {
+			"last" : "Eshoo",
+			"first" : "Anna"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "AS"
+			},
+			{
+				"state" : "AS"
+			},
+			{
+				"state" : "AS"
+			},
+			{
+				"state" : "AS"
+			},
+			{
+				"state" : "AS"
+			},
+			{
+				"state" : "AS"
+			},
+			{
+				"state" : "AS"
+			},
+			{
+				"state" : "AS"
+			},
+			{
+				"state" : "AS"
+			},
+			{
+				"state" : "AS"
+			},
+			{
+				"state" : "AS"
+			},
+			{
+				"state" : "AS"
+			},
+			{
+				"state" : "AS"
+			}
+		],
+		"id" : {
+			"bioguide" : "F000010"
+		},
+		"name" : {
+			"last" : "Faleomavaega",
+			"first" : "Eni"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			}
+		],
+		"id" : {
+			"bioguide" : "F000460"
+		},
+		"name" : {
+			"last" : "Farenthold",
+			"first" : "Blake"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			}
+		],
+		"id" : {
+			"bioguide" : "F000030"
+		},
+		"name" : {
+			"last" : "Farr",
+			"first" : "Sam"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "PA"
+			},
+			{
+				"state" : "PA"
+			},
+			{
+				"state" : "PA"
+			},
+			{
+				"state" : "PA"
+			},
+			{
+				"state" : "PA"
+			},
+			{
+				"state" : "PA"
+			},
+			{
+				"state" : "PA"
+			},
+			{
+				"state" : "PA"
+			},
+			{
+				"state" : "PA"
+			},
+			{
+				"state" : "PA"
+			}
+		],
+		"id" : {
+			"bioguide" : "F000043"
+		},
+		"name" : {
+			"last" : "Fattah",
+			"first" : "Chaka"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "TN"
+			},
+			{
+				"state" : "TN"
+			}
+		],
+		"id" : {
+			"bioguide" : "F000458"
+		},
+		"name" : {
+			"last" : "Fincher",
+			"first" : "Stephen"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "PA"
+			},
+			{
+				"state" : "PA"
+			},
+			{
+				"state" : "PA"
+			}
+		],
+		"id" : {
+			"bioguide" : "F000451"
+		},
+		"name" : {
+			"last" : "Fitzpatrick",
+			"first" : "Michael"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "AZ"
+			},
+			{
+				"state" : "AZ"
+			},
+			{
+				"state" : "AZ"
+			},
+			{
+				"state" : "AZ"
+			},
+			{
+				"state" : "AZ"
+			},
+			{
+				"state" : "AZ"
+			},
+			{
+				"state" : "AZ"
+			}
+		],
+		"id" : {
+			"bioguide" : "F000444"
+		},
+		"name" : {
+			"last" : "Flake",
+			"first" : "Jeff"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "TN"
+			},
+			{
+				"state" : "TN"
+			}
+		],
+		"id" : {
+			"bioguide" : "F000459"
+		},
+		"name" : {
+			"last" : "Fleischmann",
+			"first" : "Charles"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "LA"
+			},
+			{
+				"state" : "LA"
+			},
+			{
+				"state" : "LA"
+			}
+		],
+		"id" : {
+			"bioguide" : "F000456"
+		},
+		"name" : {
+			"last" : "Fleming",
+			"first" : "John"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			}
+		],
+		"id" : {
+			"bioguide" : "F000461"
+		},
+		"name" : {
+			"last" : "Flores",
+			"first" : "Bill"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "VA"
+			},
+			{
+				"state" : "VA"
+			},
+			{
+				"state" : "VA"
+			},
+			{
+				"state" : "VA"
+			},
+			{
+				"state" : "VA"
+			},
+			{
+				"state" : "VA"
+			},
+			{
+				"state" : "VA"
+			}
+		],
+		"id" : {
+			"bioguide" : "F000445"
+		},
+		"name" : {
+			"last" : "Forbes",
+			"first" : "J."
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "NE"
+			},
+			{
+				"state" : "NE"
+			},
+			{
+				"state" : "NE"
+			},
+			{
+				"state" : "NE"
+			},
+			{
+				"state" : "NE"
+			}
+		],
+		"id" : {
+			"bioguide" : "F000449"
+		},
+		"name" : {
+			"last" : "Fortenberry",
+			"first" : "Jeff"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "NC"
+			},
+			{
+				"state" : "NC"
+			},
+			{
+				"state" : "NC"
+			},
+			{
+				"state" : "NC"
+			},
+			{
+				"state" : "NC"
+			}
+		],
+		"id" : {
+			"bioguide" : "F000450"
+		},
+		"name" : {
+			"last" : "Foxx",
+			"first" : "Virginia"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "AZ"
+			},
+			{
+				"state" : "AZ"
+			},
+			{
+				"state" : "AZ"
+			},
+			{
+				"state" : "AZ"
+			},
+			{
+				"state" : "AZ"
+			},
+			{
+				"state" : "AZ"
+			}
+		],
+		"id" : {
+			"bioguide" : "F000448"
+		},
+		"name" : {
+			"last" : "Franks",
+			"first" : "Trent"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "NJ"
+			},
+			{
+				"state" : "NJ"
+			},
+			{
+				"state" : "NJ"
+			},
+			{
+				"state" : "NJ"
+			},
+			{
+				"state" : "NJ"
+			},
+			{
+				"state" : "NJ"
+			},
+			{
+				"state" : "NJ"
+			},
+			{
+				"state" : "NJ"
+			},
+			{
+				"state" : "NJ"
+			},
+			{
+				"state" : "NJ"
+			}
+		],
+		"id" : {
+			"bioguide" : "F000372"
+		},
+		"name" : {
+			"last" : "Frelinghuysen",
+			"first" : "Rodney"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "OH"
+			},
+			{
+				"state" : "OH"
+			},
+			{
+				"state" : "OH"
+			},
+			{
+				"state" : "OH"
+			}
+		],
+		"id" : {
+			"bioguide" : "F000455"
+		},
+		"name" : {
+			"last" : "Fudge",
+			"first" : "Marcia"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			}
+		],
+		"id" : {
+			"bioguide" : "G000559"
+		},
+		"name" : {
+			"last" : "Garamendi",
+			"first" : "John"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "CO"
+			},
+			{
+				"state" : "CO"
+			}
+		],
+		"id" : {
+			"bioguide" : "G000562"
+		},
+		"name" : {
+			"last" : "Gardner",
+			"first" : "Cory"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "NJ"
+			},
+			{
+				"state" : "NJ"
+			},
+			{
+				"state" : "NJ"
+			},
+			{
+				"state" : "NJ"
+			},
+			{
+				"state" : "NJ"
+			},
+			{
+				"state" : "NJ"
+			}
+		],
+		"id" : {
+			"bioguide" : "G000548"
+		},
+		"name" : {
+			"last" : "Garrett",
+			"first" : "Scott"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "PA"
+			},
+			{
+				"state" : "PA"
+			},
+			{
+				"state" : "PA"
+			},
+			{
+				"state" : "PA"
+			},
+			{
+				"state" : "PA"
+			},
+			{
+				"state" : "PA"
+			}
+		],
+		"id" : {
+			"bioguide" : "G000549"
+		},
+		"name" : {
+			"last" : "Gerlach",
+			"first" : "Jim"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "OH"
+			},
+			{
+				"state" : "OH"
+			}
+		],
+		"id" : {
+			"bioguide" : "G000563"
+		},
+		"name" : {
+			"last" : "Gibbs",
+			"first" : "Bob"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "NY"
+			},
+			{
+				"state" : "NY"
+			}
+		],
+		"id" : {
+			"bioguide" : "G000564"
+		},
+		"name" : {
+			"last" : "Gibson",
+			"first" : "Christopher"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "GA"
+			},
+			{
+				"state" : "GA"
+			},
+			{
+				"state" : "GA"
+			},
+			{
+				"state" : "GA"
+			},
+			{
+				"state" : "GA"
+			},
+			{
+				"state" : "GA"
+			}
+		],
+		"id" : {
+			"bioguide" : "G000550"
+		},
+		"name" : {
+			"last" : "Gingrey",
+			"first" : "Phil"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			}
+		],
+		"id" : {
+			"bioguide" : "G000552"
+		},
+		"name" : {
+			"first" : "Louie",
+			"last" : "Gohmert"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "VA"
+			},
+			{
+				"state" : "VA"
+			},
+			{
+				"state" : "VA"
+			},
+			{
+				"state" : "VA"
+			},
+			{
+				"state" : "VA"
+			},
+			{
+				"state" : "VA"
+			},
+			{
+				"state" : "VA"
+			},
+			{
+				"state" : "VA"
+			},
+			{
+				"state" : "VA"
+			},
+			{
+				"state" : "VA"
+			},
+			{
+				"state" : "VA"
+			}
+		],
+		"id" : {
+			"bioguide" : "G000289"
+		},
+		"name" : {
+			"last" : "Goodlatte",
+			"first" : "Bob"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "AZ"
+			},
+			{
+				"state" : "AZ"
+			}
+		],
+		"id" : {
+			"bioguide" : "G000565"
+		},
+		"name" : {
+			"last" : "Gosar",
+			"first" : "Paul"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "SC"
+			},
+			{
+				"state" : "SC"
+			}
+		],
+		"id" : {
+			"bioguide" : "G000566"
+		},
+		"name" : {
+			"last" : "Gowdy",
+			"first" : "Trey"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			}
+		],
+		"id" : {
+			"bioguide" : "G000377"
+		},
+		"name" : {
+			"last" : "Granger",
+			"first" : "Kay"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "IA"
+			},
+			{
+				"state" : "IA"
+			},
+			{
+				"state" : "IA"
+			},
+			{
+				"state" : "IA"
+			},
+			{
+				"state" : "IA"
+			},
+			{
+				"state" : "IA"
+			},
+			{
+				"state" : "IA"
+			},
+			{
+				"state" : "IA"
+			},
+			{
+				"state" : "IA"
+			}
+		],
+		"id" : {
+			"bioguide" : "G000386"
+		},
+		"name" : {
+			"first" : "Charles",
+			"last" : "Grassley"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "MO"
+			},
+			{
+				"state" : "MO"
+			},
+			{
+				"state" : "MO"
+			},
+			{
+				"state" : "MO"
+			},
+			{
+				"state" : "MO"
+			},
+			{
+				"state" : "MO"
+			},
+			{
+				"state" : "MO"
+			}
+		],
+		"id" : {
+			"bioguide" : "G000546"
+		},
+		"name" : {
+			"last" : "Graves",
+			"first" : "Sam"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "GA"
+			},
+			{
+				"state" : "GA"
+			},
+			{
+				"state" : "GA"
+			}
+		],
+		"id" : {
+			"bioguide" : "G000560"
+		},
+		"name" : {
+			"last" : "Graves",
+			"first" : "Tom"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			}
+		],
+		"id" : {
+			"bioguide" : "G000553"
+		},
+		"name" : {
+			"last" : "Green",
+			"first" : "Al"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			}
+		],
+		"id" : {
+			"bioguide" : "G000410"
+		},
+		"name" : {
+			"last" : "Green",
+			"first" : "Gene"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "AR"
+			},
+			{
+				"state" : "AR"
+			}
+		],
+		"id" : {
+			"bioguide" : "G000567"
+		},
+		"name" : {
+			"last" : "Griffin",
+			"first" : "Tim"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "VA"
+			},
+			{
+				"state" : "VA"
+			}
+		],
+		"id" : {
+			"bioguide" : "G000568"
+		},
+		"name" : {
+			"last" : "Griffith",
+			"first" : "H."
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "AZ"
+			},
+			{
+				"state" : "AZ"
+			},
+			{
+				"state" : "AZ"
+			},
+			{
+				"state" : "AZ"
+			},
+			{
+				"state" : "AZ"
+			},
+			{
+				"state" : "AZ"
+			}
+		],
+		"id" : {
+			"bioguide" : "G000551"
+		},
+		"name" : {
+			"last" : "Grijalva",
+			"first" : "Raúl"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "NY"
+			},
+			{
+				"state" : "NY"
+			}
+		],
+		"id" : {
+			"bioguide" : "G000569"
+		},
+		"name" : {
+			"last" : "Grimm",
+			"first" : "Michael"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "KY"
+			},
+			{
+				"state" : "KY"
+			},
+			{
+				"state" : "KY"
+			}
+		],
+		"id" : {
+			"bioguide" : "G000558"
+		},
+		"name" : {
+			"last" : "Guthrie",
+			"first" : "Brett"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "IL"
+			},
+			{
+				"state" : "IL"
+			},
+			{
+				"state" : "IL"
+			},
+			{
+				"state" : "IL"
+			},
+			{
+				"state" : "IL"
+			},
+			{
+				"state" : "IL"
+			},
+			{
+				"state" : "IL"
+			},
+			{
+				"state" : "IL"
+			},
+			{
+				"state" : "IL"
+			},
+			{
+				"state" : "IL"
+			},
+			{
+				"state" : "IL"
+			}
+		],
+		"id" : {
+			"bioguide" : "G000535"
+		},
+		"name" : {
+			"last" : "Gutierrez",
+			"first" : "Luis"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			}
+		],
+		"id" : {
+			"bioguide" : "H000067"
+		},
+		"name" : {
+			"last" : "Hall",
+			"first" : "Ralph"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "HI"
+			},
+			{
+				"state" : "HI"
+			}
+		],
+		"id" : {
+			"bioguide" : "H001050"
+		},
+		"name" : {
+			"last" : "Hanabusa",
+			"first" : "Colleen"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "NY"
+			},
+			{
+				"state" : "NY"
+			}
+		],
+		"id" : {
+			"bioguide" : "H001051"
+		},
+		"name" : {
+			"last" : "Hanna",
+			"first" : "Richard"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "MS"
+			},
+			{
+				"state" : "MS"
+			},
+			{
+				"state" : "MS"
+			}
+		],
+		"id" : {
+			"bioguide" : "H001045"
+		},
+		"name" : {
+			"last" : "Harper",
+			"first" : "Gregg"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "MD"
+			},
+			{
+				"state" : "MD"
+			}
+		],
+		"id" : {
+			"bioguide" : "H001052"
+		},
+		"name" : {
+			"last" : "Harris",
+			"first" : "Andy"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "MO"
+			},
+			{
+				"state" : "MO"
+			}
+		],
+		"id" : {
+			"bioguide" : "H001053"
+		},
+		"name" : {
+			"last" : "Hartzler",
+			"first" : "Vicky"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "FL"
+			},
+			{
+				"state" : "FL"
+			},
+			{
+				"state" : "FL"
+			},
+			{
+				"state" : "FL"
+			},
+			{
+				"state" : "FL"
+			},
+			{
+				"state" : "FL"
+			},
+			{
+				"state" : "FL"
+			},
+			{
+				"state" : "FL"
+			},
+			{
+				"state" : "FL"
+			},
+			{
+				"state" : "FL"
+			},
+			{
+				"state" : "FL"
+			}
+		],
+		"id" : {
+			"bioguide" : "H000324"
+		},
+		"name" : {
+			"last" : "Hastings",
+			"first" : "Alcee"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "WA"
+			},
+			{
+				"state" : "WA"
+			},
+			{
+				"state" : "WA"
+			},
+			{
+				"state" : "WA"
+			},
+			{
+				"state" : "WA"
+			},
+			{
+				"state" : "WA"
+			},
+			{
+				"state" : "WA"
+			},
+			{
+				"state" : "WA"
+			},
+			{
+				"state" : "WA"
+			},
+			{
+				"state" : "WA"
+			}
+		],
+		"id" : {
+			"bioguide" : "H000329"
+		},
+		"name" : {
+			"last" : "Hastings",
+			"first" : "Doc"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "NV"
+			},
+			{
+				"state" : "NV"
+			}
+		],
+		"id" : {
+			"bioguide" : "H001055"
+		},
+		"name" : {
+			"last" : "Heck",
+			"first" : "Joseph"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "NM"
+			},
+			{
+				"state" : "NM"
+			},
+			{
+				"state" : "NM"
+			}
+		],
+		"id" : {
+			"bioguide" : "H001046"
+		},
+		"name" : {
+			"last" : "Heinrich",
+			"first" : "Martin"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			}
+		],
+		"id" : {
+			"bioguide" : "H001036"
+		},
+		"name" : {
+			"last" : "Hensarling",
+			"first" : "Jeb"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "WA"
+			},
+			{
+				"state" : "WA"
+			}
+		],
+		"id" : {
+			"bioguide" : "H001056"
+		},
+		"name" : {
+			"last" : "Herrera Beutler",
+			"first" : "Jaime"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "NY"
+			},
+			{
+				"state" : "NY"
+			},
+			{
+				"state" : "NY"
+			},
+			{
+				"state" : "NY"
+			},
+			{
+				"state" : "NY"
+			}
+		],
+		"id" : {
+			"bioguide" : "H001038"
+		},
+		"name" : {
+			"last" : "Higgins",
+			"first" : "Brian"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "CT"
+			},
+			{
+				"state" : "CT"
+			},
+			{
+				"state" : "CT"
+			}
+		],
+		"id" : {
+			"bioguide" : "H001047"
+		},
+		"name" : {
+			"last" : "Himes",
+			"first" : "James"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			}
+		],
+		"id" : {
+			"bioguide" : "H000636"
+		},
+		"name" : {
+			"last" : "Hinojosa",
+			"first" : "Rubén"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "HI"
+			},
+			{
+				"state" : "HI"
+			},
+			{
+				"state" : "HI"
+			},
+			{
+				"state" : "HI"
+			}
+		],
+		"id" : {
+			"bioguide" : "H001042"
+		},
+		"name" : {
+			"last" : "Hirono",
+			"first" : "Mazie"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "ND"
+			}
+		],
+		"id" : {
+			"bioguide" : "H001061"
+		},
+		"name" : {
+			"last" : "Hoeven",
+			"first" : "John"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "NJ"
+			},
+			{
+				"state" : "NJ"
+			},
+			{
+				"state" : "NJ"
+			},
+			{
+				"state" : "NJ"
+			},
+			{
+				"state" : "NJ"
+			},
+			{
+				"state" : "NJ"
+			},
+			{
+				"state" : "NJ"
+			},
+			{
+				"state" : "NJ"
+			}
+		],
+		"id" : {
+			"bioguide" : "H001032"
+		},
+		"name" : {
+			"last" : "Holt",
+			"first" : "Rush"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			}
+		],
+		"id" : {
+			"bioguide" : "H001034"
+		},
+		"name" : {
+			"first" : "Michael",
+			"last" : "Honda"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "MD"
+			},
+			{
+				"state" : "MD"
+			},
+			{
+				"state" : "MD"
+			},
+			{
+				"state" : "MD"
+			},
+			{
+				"state" : "MD"
+			},
+			{
+				"state" : "MD"
+			},
+			{
+				"state" : "MD"
+			},
+			{
+				"state" : "MD"
+			},
+			{
+				"state" : "MD"
+			},
+			{
+				"state" : "MD"
+			},
+			{
+				"state" : "MD"
+			},
+			{
+				"state" : "MD"
+			},
+			{
+				"state" : "MD"
+			},
+			{
+				"state" : "MD"
+			},
+			{
+				"state" : "MD"
+			},
+			{
+				"state" : "MD"
+			},
+			{
+				"state" : "MD"
+			}
+		],
+		"id" : {
+			"bioguide" : "H000874"
+		},
+		"name" : {
+			"last" : "Hoyer",
+			"first" : "Steny"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "KS"
+			},
+			{
+				"state" : "KS"
+			}
+		],
+		"id" : {
+			"bioguide" : "H001057"
+		},
+		"name" : {
+			"last" : "Huelskamp",
+			"first" : "Tim"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "MI"
+			},
+			{
+				"state" : "MI"
+			}
+		],
+		"id" : {
+			"bioguide" : "H001058"
+		},
+		"name" : {
+			"last" : "Huizenga",
+			"first" : "Bill"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "IL"
+			},
+			{
+				"state" : "IL"
+			}
+		],
+		"id" : {
+			"bioguide" : "H001059"
+		},
+		"name" : {
+			"last" : "Hultgren",
+			"first" : "Randy"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			}
+		],
+		"id" : {
+			"bioguide" : "H001048"
+		},
+		"name" : {
+			"last" : "Hunter",
+			"first" : "Duncan"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "VA"
+			},
+			{
+				"state" : "VA"
+			}
+		],
+		"id" : {
+			"bioguide" : "H001060"
+		},
+		"name" : {
+			"last" : "Hurt",
+			"first" : "Robert"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "GA"
+			},
+			{
+				"state" : "GA"
+			},
+			{
+				"state" : "GA"
+			},
+			{
+				"state" : "GA"
+			},
+			{
+				"state" : "GA"
+			}
+		],
+		"id" : {
+			"bioguide" : "I000055"
+		},
+		"name" : {
+			"first" : "John",
+			"last" : "Isakson"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "NY"
+			},
+			{
+				"state" : "NY"
+			},
+			{
+				"state" : "NY"
+			},
+			{
+				"state" : "NY"
+			},
+			{
+				"state" : "NY"
+			},
+			{
+				"state" : "NY"
+			},
+			{
+				"state" : "NY"
+			}
+		],
+		"id" : {
+			"bioguide" : "I000057"
+		},
+		"name" : {
+			"last" : "Israel",
+			"first" : "Steve"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			}
+		],
+		"id" : {
+			"bioguide" : "I000056"
+		},
+		"name" : {
+			"last" : "Issa",
+			"first" : "Darrell"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			}
+		],
+		"id" : {
+			"bioguide" : "J000032"
+		},
+		"name" : {
+			"last" : "Jackson Lee",
+			"first" : "Sheila"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "KS"
+			},
+			{
+				"state" : "KS"
+			},
+			{
+				"state" : "KS"
+			}
+		],
+		"id" : {
+			"bioguide" : "J000290"
+		},
+		"name" : {
+			"last" : "Jenkins",
+			"first" : "Lynn"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "OH"
+			},
+			{
+				"state" : "OH"
+			}
+		],
+		"id" : {
+			"bioguide" : "J000292"
+		},
+		"name" : {
+			"last" : "Johnson",
+			"first" : "Bill"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			}
+		],
+		"id" : {
+			"bioguide" : "J000126"
+		},
+		"name" : {
+			"last" : "Johnson",
+			"first" : "Eddie"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "GA"
+			},
+			{
+				"state" : "GA"
+			},
+			{
+				"state" : "GA"
+			},
+			{
+				"state" : "GA"
+			}
+		],
+		"id" : {
+			"bioguide" : "J000288"
+		},
+		"name" : {
+			"last" : "Johnson",
+			"first" : "Henry"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "WI"
+			}
+		],
+		"id" : {
+			"bioguide" : "J000293"
+		},
+		"name" : {
+			"last" : "Johnson",
+			"first" : "Ron"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			}
+		],
+		"id" : {
+			"bioguide" : "J000174"
+		},
+		"name" : {
+			"last" : "Johnson",
+			"first" : "Sam"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "NC"
+			},
+			{
+				"state" : "NC"
+			},
+			{
+				"state" : "NC"
+			},
+			{
+				"state" : "NC"
+			},
+			{
+				"state" : "NC"
+			},
+			{
+				"state" : "NC"
+			},
+			{
+				"state" : "NC"
+			},
+			{
+				"state" : "NC"
+			},
+			{
+				"state" : "NC"
+			},
+			{
+				"state" : "NC"
+			}
+		],
+		"id" : {
+			"bioguide" : "J000255"
+		},
+		"name" : {
+			"first" : "Walter",
+			"last" : "Jones"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "OH"
+			},
+			{
+				"state" : "OH"
+			},
+			{
+				"state" : "OH"
+			},
+			{
+				"state" : "OH"
+			}
+		],
+		"id" : {
+			"bioguide" : "J000289"
+		},
+		"name" : {
+			"last" : "Jordan",
+			"first" : "Jim"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "OH"
+			},
+			{
+				"state" : "OH"
+			},
+			{
+				"state" : "OH"
+			},
+			{
+				"state" : "OH"
+			},
+			{
+				"state" : "OH"
+			},
+			{
+				"state" : "OH"
+			},
+			{
+				"state" : "OH"
+			},
+			{
+				"state" : "OH"
+			},
+			{
+				"state" : "OH"
+			},
+			{
+				"state" : "OH"
+			},
+			{
+				"state" : "OH"
+			},
+			{
+				"state" : "OH"
+			},
+			{
+				"state" : "OH"
+			},
+			{
+				"state" : "OH"
+			},
+			{
+				"state" : "OH"
+			},
+			{
+				"state" : "OH"
+			}
+		],
+		"id" : {
+			"bioguide" : "K000009"
+		},
+		"name" : {
+			"last" : "Kaptur",
+			"first" : "Marcy"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "MA"
+			},
+			{
+				"state" : "MA"
+			}
+		],
+		"id" : {
+			"bioguide" : "K000375"
+		},
+		"name" : {
+			"last" : "Keating",
+			"first" : "William"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "PA"
+			},
+			{
+				"state" : "PA"
+			}
+		],
+		"id" : {
+			"bioguide" : "K000376"
+		},
+		"name" : {
+			"last" : "Kelly",
+			"first" : "Mike"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "WI"
+			},
+			{
+				"state" : "WI"
+			},
+			{
+				"state" : "WI"
+			},
+			{
+				"state" : "WI"
+			},
+			{
+				"state" : "WI"
+			},
+			{
+				"state" : "WI"
+			},
+			{
+				"state" : "WI"
+			},
+			{
+				"state" : "WI"
+			},
+			{
+				"state" : "WI"
+			}
+		],
+		"id" : {
+			"bioguide" : "K000188"
+		},
+		"name" : {
+			"last" : "Kind",
+			"first" : "Ron"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "NY"
+			},
+			{
+				"state" : "NY"
+			},
+			{
+				"state" : "NY"
+			},
+			{
+				"state" : "NY"
+			},
+			{
+				"state" : "NY"
+			},
+			{
+				"state" : "NY"
+			},
+			{
+				"state" : "NY"
+			},
+			{
+				"state" : "NY"
+			},
+			{
+				"state" : "NY"
+			},
+			{
+				"state" : "NY"
+			},
+			{
+				"state" : "NY"
+			}
+		],
+		"id" : {
+			"bioguide" : "K000210"
+		},
+		"name" : {
+			"first" : "Peter",
+			"last" : "King"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "IA"
+			},
+			{
+				"state" : "IA"
+			},
+			{
+				"state" : "IA"
+			},
+			{
+				"state" : "IA"
+			},
+			{
+				"state" : "IA"
+			},
+			{
+				"state" : "IA"
+			}
+		],
+		"id" : {
+			"bioguide" : "K000362"
+		},
+		"name" : {
+			"last" : "King",
+			"first" : "Steve"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "GA"
+			},
+			{
+				"state" : "GA"
+			},
+			{
+				"state" : "GA"
+			},
+			{
+				"state" : "GA"
+			},
+			{
+				"state" : "GA"
+			},
+			{
+				"state" : "GA"
+			},
+			{
+				"state" : "GA"
+			},
+			{
+				"state" : "GA"
+			},
+			{
+				"state" : "GA"
+			},
+			{
+				"state" : "GA"
+			},
+			{
+				"state" : "GA"
+			}
+		],
+		"id" : {
+			"bioguide" : "K000220"
+		},
+		"name" : {
+			"last" : "Kingston",
+			"first" : "Jack"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "IL"
+			},
+			{
+				"state" : "IL"
+			}
+		],
+		"id" : {
+			"bioguide" : "K000378"
+		},
+		"name" : {
+			"last" : "Kinzinger",
+			"first" : "Adam"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "IL"
+			},
+			{
+				"state" : "IL"
+			},
+			{
+				"state" : "IL"
+			},
+			{
+				"state" : "IL"
+			},
+			{
+				"state" : "IL"
+			},
+			{
+				"state" : "IL"
+			},
+			{
+				"state" : "IL"
+			}
+		],
+		"id" : {
+			"bioguide" : "K000360"
+		},
+		"name" : {
+			"last" : "Kirk",
+			"first" : "Mark"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "MN"
+			},
+			{
+				"state" : "MN"
+			},
+			{
+				"state" : "MN"
+			},
+			{
+				"state" : "MN"
+			},
+			{
+				"state" : "MN"
+			},
+			{
+				"state" : "MN"
+			}
+		],
+		"id" : {
+			"bioguide" : "K000363"
+		},
+		"name" : {
+			"last" : "Kline",
+			"first" : "John"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "ID"
+			},
+			{
+				"state" : "ID"
+			}
+		],
+		"id" : {
+			"bioguide" : "L000573"
+		},
+		"name" : {
+			"last" : "Labrador",
+			"first" : "Raúl"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "CO"
+			},
+			{
+				"state" : "CO"
+			},
+			{
+				"state" : "CO"
+			},
+			{
+				"state" : "CO"
+			}
+		],
+		"id" : {
+			"bioguide" : "L000564"
+		},
+		"name" : {
+			"last" : "Lamborn",
+			"first" : "Doug"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "NJ"
+			},
+			{
+				"state" : "NJ"
+			},
+			{
+				"state" : "NJ"
+			}
+		],
+		"id" : {
+			"bioguide" : "L000567"
+		},
+		"name" : {
+			"last" : "Lance",
+			"first" : "Leonard"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "RI"
+			},
+			{
+				"state" : "RI"
+			},
+			{
+				"state" : "RI"
+			},
+			{
+				"state" : "RI"
+			},
+			{
+				"state" : "RI"
+			},
+			{
+				"state" : "RI"
+			},
+			{
+				"state" : "RI"
+			}
+		],
+		"id" : {
+			"bioguide" : "L000559"
+		},
+		"name" : {
+			"first" : "James",
+			"last" : "Langevin"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "OK"
+			},
+			{
+				"state" : "OK"
+			}
+		],
+		"id" : {
+			"bioguide" : "L000575"
+		},
+		"name" : {
+			"last" : "Lankford",
+			"first" : "James"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "WA"
+			},
+			{
+				"state" : "WA"
+			},
+			{
+				"state" : "WA"
+			},
+			{
+				"state" : "WA"
+			},
+			{
+				"state" : "WA"
+			},
+			{
+				"state" : "WA"
+			},
+			{
+				"state" : "WA"
+			}
+		],
+		"id" : {
+			"bioguide" : "L000560"
+		},
+		"name" : {
+			"last" : "Larsen",
+			"first" : "Rick"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "CT"
+			},
+			{
+				"state" : "CT"
+			},
+			{
+				"state" : "CT"
+			},
+			{
+				"state" : "CT"
+			},
+			{
+				"state" : "CT"
+			},
+			{
+				"state" : "CT"
+			},
+			{
+				"state" : "CT"
+			},
+			{
+				"state" : "CT"
+			}
+		],
+		"id" : {
+			"bioguide" : "L000557"
+		},
+		"name" : {
+			"last" : "Larson",
+			"first" : "John"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "IA"
+			},
+			{
+				"state" : "IA"
+			},
+			{
+				"state" : "IA"
+			},
+			{
+				"state" : "IA"
+			},
+			{
+				"state" : "IA"
+			},
+			{
+				"state" : "IA"
+			},
+			{
+				"state" : "IA"
+			},
+			{
+				"state" : "IA"
+			},
+			{
+				"state" : "IA"
+			},
+			{
+				"state" : "IA"
+			}
+		],
+		"id" : {
+			"bioguide" : "L000111"
+		},
+		"name" : {
+			"last" : "Latham",
+			"first" : "Tom"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "OH"
+			},
+			{
+				"state" : "OH"
+			},
+			{
+				"state" : "OH"
+			},
+			{
+				"state" : "OH"
+			}
+		],
+		"id" : {
+			"bioguide" : "L000566"
+		},
+		"name" : {
+			"last" : "Latta",
+			"first" : "Robert"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "VT"
+			},
+			{
+				"state" : "VT"
+			},
+			{
+				"state" : "VT"
+			},
+			{
+				"state" : "VT"
+			},
+			{
+				"state" : "VT"
+			},
+			{
+				"state" : "VT"
+			},
+			{
+				"state" : "VT"
+			}
+		],
+		"id" : {
+			"bioguide" : "L000174"
+		},
+		"name" : {
+			"last" : "Leahy",
+			"first" : "Patrick"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			}
+		],
+		"id" : {
+			"bioguide" : "L000551"
+		},
+		"name" : {
+			"last" : "Lee",
+			"first" : "Barbara"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "UT"
+			}
+		],
+		"id" : {
+			"bioguide" : "L000577"
+		},
+		"name" : {
+			"last" : "Lee",
+			"first" : "Mike"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "MI"
+			},
+			{
+				"state" : "MI"
+			},
+			{
+				"state" : "MI"
+			},
+			{
+				"state" : "MI"
+			},
+			{
+				"state" : "MI"
+			},
+			{
+				"state" : "MI"
+			},
+			{
+				"state" : "MI"
+			},
+			{
+				"state" : "MI"
+			},
+			{
+				"state" : "MI"
+			},
+			{
+				"state" : "MI"
+			},
+			{
+				"state" : "MI"
+			},
+			{
+				"state" : "MI"
+			},
+			{
+				"state" : "MI"
+			},
+			{
+				"state" : "MI"
+			},
+			{
+				"state" : "MI"
+			},
+			{
+				"state" : "MI"
+			}
+		],
+		"id" : {
+			"bioguide" : "L000263"
+		},
+		"name" : {
+			"last" : "Levin",
+			"first" : "Sander"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "GA"
+			},
+			{
+				"state" : "GA"
+			},
+			{
+				"state" : "GA"
+			},
+			{
+				"state" : "GA"
+			},
+			{
+				"state" : "GA"
+			},
+			{
+				"state" : "GA"
+			},
+			{
+				"state" : "GA"
+			},
+			{
+				"state" : "GA"
+			},
+			{
+				"state" : "GA"
+			},
+			{
+				"state" : "GA"
+			},
+			{
+				"state" : "GA"
+			},
+			{
+				"state" : "GA"
+			},
+			{
+				"state" : "GA"
+			},
+			{
+				"state" : "GA"
+			}
+		],
+		"id" : {
+			"bioguide" : "L000287"
+		},
+		"name" : {
+			"last" : "Lewis",
+			"first" : "John"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "IL"
+			},
+			{
+				"state" : "IL"
+			},
+			{
+				"state" : "IL"
+			},
+			{
+				"state" : "IL"
+			},
+			{
+				"state" : "IL"
+			}
+		],
+		"id" : {
+			"bioguide" : "L000563"
+		},
+		"name" : {
+			"last" : "Lipinski",
+			"first" : "Daniel"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "NJ"
+			},
+			{
+				"state" : "NJ"
+			},
+			{
+				"state" : "NJ"
+			},
+			{
+				"state" : "NJ"
+			},
+			{
+				"state" : "NJ"
+			},
+			{
+				"state" : "NJ"
+			},
+			{
+				"state" : "NJ"
+			},
+			{
+				"state" : "NJ"
+			},
+			{
+				"state" : "NJ"
+			},
+			{
+				"state" : "NJ"
+			}
+		],
+		"id" : {
+			"bioguide" : "L000554"
+		},
+		"name" : {
+			"last" : "LoBiondo",
+			"first" : "Frank"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "IA"
+			},
+			{
+				"state" : "IA"
+			},
+			{
+				"state" : "IA"
+			},
+			{
+				"state" : "IA"
+			}
+		],
+		"id" : {
+			"bioguide" : "L000565"
+		},
+		"name" : {
+			"last" : "Loebsack",
+			"first" : "David"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			}
+		],
+		"id" : {
+			"bioguide" : "L000397"
+		},
+		"name" : {
+			"last" : "Lofgren",
+			"first" : "Zoe"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "MO"
+			},
+			{
+				"state" : "MO"
+			}
+		],
+		"id" : {
+			"bioguide" : "L000576"
+		},
+		"name" : {
+			"last" : "Long",
+			"first" : "Billy"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "NY"
+			},
+			{
+				"state" : "NY"
+			},
+			{
+				"state" : "NY"
+			},
+			{
+				"state" : "NY"
+			},
+			{
+				"state" : "NY"
+			},
+			{
+				"state" : "NY"
+			},
+			{
+				"state" : "NY"
+			},
+			{
+				"state" : "NY"
+			},
+			{
+				"state" : "NY"
+			},
+			{
+				"state" : "NY"
+			},
+			{
+				"state" : "NY"
+			},
+			{
+				"state" : "NY"
+			},
+			{
+				"state" : "NY"
+			}
+		],
+		"id" : {
+			"bioguide" : "L000480"
+		},
+		"name" : {
+			"last" : "Lowey",
+			"first" : "Nita"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "OK"
+			},
+			{
+				"state" : "OK"
+			},
+			{
+				"state" : "OK"
+			},
+			{
+				"state" : "OK"
+			},
+			{
+				"state" : "OK"
+			},
+			{
+				"state" : "OK"
+			},
+			{
+				"state" : "OK"
+			},
+			{
+				"state" : "OK"
+			},
+			{
+				"state" : "OK"
+			},
+			{
+				"state" : "OK"
+			},
+			{
+				"state" : "OK"
+			}
+		],
+		"id" : {
+			"bioguide" : "L000491"
+		},
+		"name" : {
+			"last" : "Lucas",
+			"first" : "Frank"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "MO"
+			},
+			{
+				"state" : "MO"
+			},
+			{
+				"state" : "MO"
+			}
+		],
+		"id" : {
+			"bioguide" : "L000569"
+		},
+		"name" : {
+			"last" : "Luetkemeyer",
+			"first" : "Blaine"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "NM"
+			},
+			{
+				"state" : "NM"
+			},
+			{
+				"state" : "NM"
+			}
+		],
+		"id" : {
+			"bioguide" : "L000570"
+		},
+		"name" : {
+			"last" : "Luján",
+			"first" : "Ben"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "WY"
+			},
+			{
+				"state" : "WY"
+			},
+			{
+				"state" : "WY"
+			}
+		],
+		"id" : {
+			"bioguide" : "L000571"
+		},
+		"name" : {
+			"last" : "Lummis",
+			"first" : "Cynthia"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "MA"
+			},
+			{
+				"state" : "MA"
+			},
+			{
+				"state" : "MA"
+			},
+			{
+				"state" : "MA"
+			},
+			{
+				"state" : "MA"
+			},
+			{
+				"state" : "MA"
+			},
+			{
+				"state" : "MA"
+			}
+		],
+		"id" : {
+			"bioguide" : "L000562"
+		},
+		"name" : {
+			"last" : "Lynch",
+			"first" : "Stephen"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "NY"
+			},
+			{
+				"state" : "NY"
+			},
+			{
+				"state" : "NY"
+			},
+			{
+				"state" : "NY"
+			},
+			{
+				"state" : "NY"
+			},
+			{
+				"state" : "NY"
+			},
+			{
+				"state" : "NY"
+			},
+			{
+				"state" : "NY"
+			},
+			{
+				"state" : "NY"
+			},
+			{
+				"state" : "NY"
+			},
+			{
+				"state" : "NY"
+			}
+		],
+		"id" : {
+			"bioguide" : "M000087"
+		},
+		"name" : {
+			"last" : "Maloney",
+			"first" : "Carolyn"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			}
+		],
+		"id" : {
+			"bioguide" : "M001158"
+		},
+		"name" : {
+			"last" : "Marchant",
+			"first" : "Kenny"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "PA"
+			},
+			{
+				"state" : "PA"
+			}
+		],
+		"id" : {
+			"bioguide" : "M001179"
+		},
+		"name" : {
+			"last" : "Marino",
+			"first" : "Tom"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "MA"
+			},
+			{
+				"state" : "MA"
+			},
+			{
+				"state" : "MA"
+			},
+			{
+				"state" : "MA"
+			},
+			{
+				"state" : "MA"
+			},
+			{
+				"state" : "MA"
+			},
+			{
+				"state" : "MA"
+			},
+			{
+				"state" : "MA"
+			},
+			{
+				"state" : "MA"
+			},
+			{
+				"state" : "MA"
+			},
+			{
+				"state" : "MA"
+			},
+			{
+				"state" : "MA"
+			},
+			{
+				"state" : "MA"
+			},
+			{
+				"state" : "MA"
+			},
+			{
+				"state" : "MA"
+			},
+			{
+				"state" : "MA"
+			},
+			{
+				"state" : "MA"
+			},
+			{
+				"state" : "MA"
+			},
+			{
+				"state" : "MA"
+			},
+			{
+				"state" : "MA"
+			}
+		],
+		"id" : {
+			"bioguide" : "M000133"
+		},
+		"name" : {
+			"first" : "Edward",
+			"last" : "Markey"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "UT"
+			},
+			{
+				"state" : "UT"
+			},
+			{
+				"state" : "UT"
+			},
+			{
+				"state" : "UT"
+			},
+			{
+				"state" : "UT"
+			},
+			{
+				"state" : "UT"
+			},
+			{
+				"state" : "UT"
+			}
+		],
+		"id" : {
+			"bioguide" : "M001142"
+		},
+		"name" : {
+			"last" : "Matheson",
+			"first" : "Jim"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			}
+		],
+		"id" : {
+			"bioguide" : "M001163"
+		},
+		"name" : {
+			"last" : "Matsui",
+			"first" : "Doris"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "AZ"
+			},
+			{
+				"state" : "AZ"
+			},
+			{
+				"state" : "AZ"
+			},
+			{
+				"state" : "AZ"
+			},
+			{
+				"state" : "AZ"
+			},
+			{
+				"state" : "AZ"
+			},
+			{
+				"state" : "AZ"
+			}
+		],
+		"id" : {
+			"bioguide" : "M000303"
+		},
+		"name" : {
+			"last" : "McCain",
+			"first" : "John"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "NY"
+			},
+			{
+				"state" : "NY"
+			},
+			{
+				"state" : "NY"
+			},
+			{
+				"state" : "NY"
+			},
+			{
+				"state" : "NY"
+			},
+			{
+				"state" : "NY"
+			},
+			{
+				"state" : "NY"
+			},
+			{
+				"state" : "NY"
+			},
+			{
+				"state" : "NY"
+			}
+		],
+		"id" : {
+			"bioguide" : "M000309"
+		},
+		"name" : {
+			"last" : "McCarthy",
+			"first" : "Carolyn"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			}
+		],
+		"id" : {
+			"bioguide" : "M001165"
+		},
+		"name" : {
+			"last" : "McCarthy",
+			"first" : "Kevin"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			}
+		],
+		"id" : {
+			"bioguide" : "M001157"
+		},
+		"name" : {
+			"last" : "McCaul",
+			"first" : "Michael"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			}
+		],
+		"id" : {
+			"bioguide" : "M001177"
+		},
+		"name" : {
+			"last" : "McClintock",
+			"first" : "Tom"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "MN"
+			},
+			{
+				"state" : "MN"
+			},
+			{
+				"state" : "MN"
+			},
+			{
+				"state" : "MN"
+			},
+			{
+				"state" : "MN"
+			},
+			{
+				"state" : "MN"
+			},
+			{
+				"state" : "MN"
+			}
+		],
+		"id" : {
+			"bioguide" : "M001143"
+		},
+		"name" : {
+			"last" : "McCollum",
+			"first" : "Betty"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "WA"
+			},
+			{
+				"state" : "WA"
+			},
+			{
+				"state" : "WA"
+			},
+			{
+				"state" : "WA"
+			},
+			{
+				"state" : "WA"
+			},
+			{
+				"state" : "WA"
+			},
+			{
+				"state" : "WA"
+			},
+			{
+				"state" : "WA"
+			},
+			{
+				"state" : "WA"
+			},
+			{
+				"state" : "WA"
+			},
+			{
+				"state" : "WA"
+			},
+			{
+				"state" : "WA"
+			},
+			{
+				"state" : "WA"
+			}
+		],
+		"id" : {
+			"bioguide" : "M000404"
+		},
+		"name" : {
+			"last" : "McDermott",
+			"first" : "Jim"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "MA"
+			},
+			{
+				"state" : "MA"
+			},
+			{
+				"state" : "MA"
+			},
+			{
+				"state" : "MA"
+			},
+			{
+				"state" : "MA"
+			},
+			{
+				"state" : "MA"
+			},
+			{
+				"state" : "MA"
+			},
+			{
+				"state" : "MA"
+			},
+			{
+				"state" : "MA"
+			}
+		],
+		"id" : {
+			"bioguide" : "M000312"
+		},
+		"name" : {
+			"first" : "James",
+			"last" : "McGovern"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "NC"
+			},
+			{
+				"state" : "NC"
+			},
+			{
+				"state" : "NC"
+			},
+			{
+				"state" : "NC"
+			},
+			{
+				"state" : "NC"
+			}
+		],
+		"id" : {
+			"bioguide" : "M001156"
+		},
+		"name" : {
+			"last" : "McHenry",
+			"first" : "Patrick"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "NC"
+			},
+			{
+				"state" : "NC"
+			},
+			{
+				"state" : "NC"
+			},
+			{
+				"state" : "NC"
+			},
+			{
+				"state" : "NC"
+			},
+			{
+				"state" : "NC"
+			},
+			{
+				"state" : "NC"
+			},
+			{
+				"state" : "NC"
+			},
+			{
+				"state" : "NC"
+			}
+		],
+		"id" : {
+			"bioguide" : "M000485"
+		},
+		"name" : {
+			"last" : "McIntyre",
+			"first" : "Mike"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			}
+		],
+		"id" : {
+			"bioguide" : "M000508"
+		},
+		"name" : {
+			"first" : "Howard",
+			"last" : "McKeon"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "WV"
+			},
+			{
+				"state" : "WV"
+			}
+		],
+		"id" : {
+			"bioguide" : "M001180"
+		},
+		"name" : {
+			"last" : "McKinley",
+			"first" : "David"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "WA"
+			},
+			{
+				"state" : "WA"
+			},
+			{
+				"state" : "WA"
+			},
+			{
+				"state" : "WA"
+			},
+			{
+				"state" : "WA"
+			}
+		],
+		"id" : {
+			"bioguide" : "M001159"
+		},
+		"name" : {
+			"last" : "McMorris Rodgers",
+			"first" : "Cathy"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			}
+		],
+		"id" : {
+			"bioguide" : "M001166"
+		},
+		"name" : {
+			"last" : "McNerney",
+			"first" : "Jerry"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "PA"
+			},
+			{
+				"state" : "PA"
+			}
+		],
+		"id" : {
+			"bioguide" : "M001181"
+		},
+		"name" : {
+			"last" : "Meehan",
+			"first" : "Patrick"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "NY"
+			},
+			{
+				"state" : "NY"
+			},
+			{
+				"state" : "NY"
+			},
+			{
+				"state" : "NY"
+			},
+			{
+				"state" : "NY"
+			},
+			{
+				"state" : "NY"
+			},
+			{
+				"state" : "NY"
+			},
+			{
+				"state" : "NY"
+			},
+			{
+				"state" : "NY"
+			}
+		],
+		"id" : {
+			"bioguide" : "M001137"
+		},
+		"name" : {
+			"last" : "Meeks",
+			"first" : "Gregory"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "FL"
+			},
+			{
+				"state" : "FL"
+			},
+			{
+				"state" : "FL"
+			},
+			{
+				"state" : "FL"
+			},
+			{
+				"state" : "FL"
+			},
+			{
+				"state" : "FL"
+			},
+			{
+				"state" : "FL"
+			},
+			{
+				"state" : "FL"
+			},
+			{
+				"state" : "FL"
+			},
+			{
+				"state" : "FL"
+			},
+			{
+				"state" : "FL"
+			}
+		],
+		"id" : {
+			"bioguide" : "M000689"
+		},
+		"name" : {
+			"last" : "Mica",
+			"first" : "John"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "ME"
+			},
+			{
+				"state" : "ME"
+			},
+			{
+				"state" : "ME"
+			},
+			{
+				"state" : "ME"
+			},
+			{
+				"state" : "ME"
+			},
+			{
+				"state" : "ME"
+			}
+		],
+		"id" : {
+			"bioguide" : "M001149"
+		},
+		"name" : {
+			"last" : "Michaud",
+			"first" : "Michael"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "MD"
+			},
+			{
+				"state" : "MD"
+			},
+			{
+				"state" : "MD"
+			},
+			{
+				"state" : "MD"
+			},
+			{
+				"state" : "MD"
+			},
+			{
+				"state" : "MD"
+			},
+			{
+				"state" : "MD"
+			},
+			{
+				"state" : "MD"
+			},
+			{
+				"state" : "MD"
+			},
+			{
+				"state" : "MD"
+			}
+		],
+		"id" : {
+			"bioguide" : "M000702"
+		},
+		"name" : {
+			"last" : "Mikulski",
+			"first" : "Barbara"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "MI"
+			},
+			{
+				"state" : "MI"
+			},
+			{
+				"state" : "MI"
+			},
+			{
+				"state" : "MI"
+			},
+			{
+				"state" : "MI"
+			},
+			{
+				"state" : "MI"
+			}
+		],
+		"id" : {
+			"bioguide" : "M001150"
+		},
+		"name" : {
+			"last" : "Miller",
+			"first" : "Candice"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			}
+		],
+		"id" : {
+			"bioguide" : "M001139"
+		},
+		"name" : {
+			"last" : "Miller",
+			"first" : "Gary"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			}
+		],
+		"id" : {
+			"bioguide" : "M000725"
+		},
+		"name" : {
+			"last" : "Miller",
+			"first" : "George"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "FL"
+			},
+			{
+				"state" : "FL"
+			},
+			{
+				"state" : "FL"
+			},
+			{
+				"state" : "FL"
+			},
+			{
+				"state" : "FL"
+			},
+			{
+				"state" : "FL"
+			},
+			{
+				"state" : "FL"
+			}
+		],
+		"id" : {
+			"bioguide" : "M001144"
+		},
+		"name" : {
+			"last" : "Miller",
+			"first" : "Jeff"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "WI"
+			},
+			{
+				"state" : "WI"
+			},
+			{
+				"state" : "WI"
+			},
+			{
+				"state" : "WI"
+			},
+			{
+				"state" : "WI"
+			}
+		],
+		"id" : {
+			"bioguide" : "M001160"
+		},
+		"name" : {
+			"last" : "Moore",
+			"first" : "Gwen"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "VA"
+			},
+			{
+				"state" : "VA"
+			},
+			{
+				"state" : "VA"
+			},
+			{
+				"state" : "VA"
+			},
+			{
+				"state" : "VA"
+			},
+			{
+				"state" : "VA"
+			},
+			{
+				"state" : "VA"
+			},
+			{
+				"state" : "VA"
+			},
+			{
+				"state" : "VA"
+			},
+			{
+				"state" : "VA"
+			},
+			{
+				"state" : "VA"
+			},
+			{
+				"state" : "VA"
+			}
+		],
+		"id" : {
+			"bioguide" : "M000933"
+		},
+		"name" : {
+			"last" : "Moran",
+			"first" : "James"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "KS"
+			},
+			{
+				"state" : "KS"
+			},
+			{
+				"state" : "KS"
+			},
+			{
+				"state" : "KS"
+			},
+			{
+				"state" : "KS"
+			},
+			{
+				"state" : "KS"
+			},
+			{
+				"state" : "KS"
+			},
+			{
+				"state" : "KS"
+			}
+		],
+		"id" : {
+			"bioguide" : "M000934"
+		},
+		"name" : {
+			"last" : "Moran",
+			"first" : "Jerry"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "SC"
+			},
+			{
+				"state" : "SC"
+			}
+		],
+		"id" : {
+			"bioguide" : "M001182"
+		},
+		"name" : {
+			"last" : "Mulvaney",
+			"first" : "Mick"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "AK"
+			},
+			{
+				"state" : "AK"
+			},
+			{
+				"state" : "AK"
+			}
+		],
+		"id" : {
+			"bioguide" : "M001153"
+		},
+		"name" : {
+			"last" : "Murkowski",
+			"first" : "Lisa"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "CT"
+			},
+			{
+				"state" : "CT"
+			},
+			{
+				"state" : "CT"
+			},
+			{
+				"state" : "CT"
+			}
+		],
+		"id" : {
+			"bioguide" : "M001169"
+		},
+		"name" : {
+			"last" : "Murphy",
+			"first" : "Christopher"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "PA"
+			},
+			{
+				"state" : "PA"
+			},
+			{
+				"state" : "PA"
+			},
+			{
+				"state" : "PA"
+			},
+			{
+				"state" : "PA"
+			},
+			{
+				"state" : "PA"
+			}
+		],
+		"id" : {
+			"bioguide" : "M001151"
+		},
+		"name" : {
+			"last" : "Murphy",
+			"first" : "Tim"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "WA"
+			},
+			{
+				"state" : "WA"
+			},
+			{
+				"state" : "WA"
+			},
+			{
+				"state" : "WA"
+			}
+		],
+		"id" : {
+			"bioguide" : "M001111"
+		},
+		"name" : {
+			"last" : "Murray",
+			"first" : "Patty"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "NY"
+			},
+			{
+				"state" : "NY"
+			},
+			{
+				"state" : "NY"
+			},
+			{
+				"state" : "NY"
+			},
+			{
+				"state" : "NY"
+			},
+			{
+				"state" : "NY"
+			},
+			{
+				"state" : "NY"
+			},
+			{
+				"state" : "NY"
+			},
+			{
+				"state" : "NY"
+			},
+			{
+				"state" : "NY"
+			},
+			{
+				"state" : "NY"
+			},
+			{
+				"state" : "NY"
+			}
+		],
+		"id" : {
+			"bioguide" : "N000002"
+		},
+		"name" : {
+			"last" : "Nadler",
+			"first" : "Jerrold"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			}
+		],
+		"id" : {
+			"bioguide" : "N000179"
+		},
+		"name" : {
+			"last" : "Napolitano",
+			"first" : "Grace"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "MA"
+			},
+			{
+				"state" : "MA"
+			},
+			{
+				"state" : "MA"
+			},
+			{
+				"state" : "MA"
+			},
+			{
+				"state" : "MA"
+			},
+			{
+				"state" : "MA"
+			},
+			{
+				"state" : "MA"
+			},
+			{
+				"state" : "MA"
+			},
+			{
+				"state" : "MA"
+			},
+			{
+				"state" : "MA"
+			},
+			{
+				"state" : "MA"
+			},
+			{
+				"state" : "MA"
+			},
+			{
+				"state" : "MA"
+			}
+		],
+		"id" : {
+			"bioguide" : "N000015"
+		},
+		"name" : {
+			"last" : "Neal",
+			"first" : "Richard"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			}
+		],
+		"id" : {
+			"bioguide" : "N000182"
+		},
+		"name" : {
+			"last" : "Neugebauer",
+			"first" : "Randy"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "SD"
+			},
+			{
+				"state" : "SD"
+			}
+		],
+		"id" : {
+			"bioguide" : "N000184"
+		},
+		"name" : {
+			"last" : "Noem",
+			"first" : "Kristi"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "DC"
+			},
+			{
+				"state" : "DC"
+			},
+			{
+				"state" : "DC"
+			},
+			{
+				"state" : "DC"
+			},
+			{
+				"state" : "DC"
+			},
+			{
+				"state" : "DC"
+			},
+			{
+				"state" : "DC"
+			},
+			{
+				"state" : "DC"
+			},
+			{
+				"state" : "DC"
+			},
+			{
+				"state" : "DC"
+			},
+			{
+				"state" : "DC"
+			},
+			{
+				"state" : "DC"
+			}
+		],
+		"id" : {
+			"bioguide" : "N000147"
+		},
+		"name" : {
+			"last" : "Norton",
+			"first" : "Eleanor"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "FL"
+			},
+			{
+				"state" : "FL"
+			}
+		],
+		"id" : {
+			"bioguide" : "N000185"
+		},
+		"name" : {
+			"last" : "Nugent",
+			"first" : "Richard"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			}
+		],
+		"id" : {
+			"bioguide" : "N000181"
+		},
+		"name" : {
+			"last" : "Nunes",
+			"first" : "Devin"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "MS"
+			},
+			{
+				"state" : "MS"
+			}
+		],
+		"id" : {
+			"bioguide" : "N000186"
+		},
+		"name" : {
+			"last" : "Nunnelee",
+			"first" : "Alan"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			}
+		],
+		"id" : {
+			"bioguide" : "O000168"
+		},
+		"name" : {
+			"last" : "Olson",
+			"first" : "Pete"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "NY"
+			},
+			{
+				"state" : "NY"
+			},
+			{
+				"state" : "NY"
+			}
+		],
+		"id" : {
+			"bioguide" : "O000169"
+		},
+		"name" : {
+			"last" : "Owens",
+			"first" : "William"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "MS"
+			},
+			{
+				"state" : "MS"
+			}
+		],
+		"id" : {
+			"bioguide" : "P000601"
+		},
+		"name" : {
+			"last" : "Palazzo",
+			"first" : "Steven"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "NJ"
+			},
+			{
+				"state" : "NJ"
+			},
+			{
+				"state" : "NJ"
+			},
+			{
+				"state" : "NJ"
+			},
+			{
+				"state" : "NJ"
+			},
+			{
+				"state" : "NJ"
+			},
+			{
+				"state" : "NJ"
+			},
+			{
+				"state" : "NJ"
+			},
+			{
+				"state" : "NJ"
+			},
+			{
+				"state" : "NJ"
+			},
+			{
+				"state" : "NJ"
+			},
+			{
+				"state" : "NJ"
+			},
+			{
+				"state" : "NJ"
+			},
+			{
+				"state" : "NJ"
+			}
+		],
+		"id" : {
+			"bioguide" : "P000034"
+		},
+		"name" : {
+			"first" : "Frank",
+			"last" : "Pallone"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "NJ"
+			},
+			{
+				"state" : "NJ"
+			},
+			{
+				"state" : "NJ"
+			},
+			{
+				"state" : "NJ"
+			},
+			{
+				"state" : "NJ"
+			},
+			{
+				"state" : "NJ"
+			},
+			{
+				"state" : "NJ"
+			},
+			{
+				"state" : "NJ"
+			},
+			{
+				"state" : "NJ"
+			}
+		],
+		"id" : {
+			"bioguide" : "P000096"
+		},
+		"name" : {
+			"first" : "Bill",
+			"last" : "Pascrell"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "AZ"
+			},
+			{
+				"state" : "AZ"
+			},
+			{
+				"state" : "AZ"
+			},
+			{
+				"state" : "AZ"
+			},
+			{
+				"state" : "AZ"
+			},
+			{
+				"state" : "AZ"
+			},
+			{
+				"state" : "AZ"
+			},
+			{
+				"state" : "AZ"
+			},
+			{
+				"state" : "AZ"
+			},
+			{
+				"state" : "AZ"
+			},
+			{
+				"state" : "AZ"
+			},
+			{
+				"state" : "AZ"
+			}
+		],
+		"id" : {
+			"bioguide" : "P000099"
+		},
+		"name" : {
+			"last" : "Pastor",
+			"first" : "Ed"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "KY"
+			}
+		],
+		"id" : {
+			"bioguide" : "P000603"
+		},
+		"name" : {
+			"last" : "Paul",
+			"first" : "Rand"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "MN"
+			},
+			{
+				"state" : "MN"
+			},
+			{
+				"state" : "MN"
+			}
+		],
+		"id" : {
+			"bioguide" : "P000594"
+		},
+		"name" : {
+			"last" : "Paulsen",
+			"first" : "Erik"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "NM"
+			},
+			{
+				"state" : "NM"
+			},
+			{
+				"state" : "NM"
+			},
+			{
+				"state" : "NM"
+			},
+			{
+				"state" : "NM"
+			}
+		],
+		"id" : {
+			"bioguide" : "P000588"
+		},
+		"name" : {
+			"first" : "Stevan",
+			"last" : "Pearce"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			}
+		],
+		"id" : {
+			"bioguide" : "P000197"
+		},
+		"name" : {
+			"last" : "Pelosi",
+			"first" : "Nancy"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "CO"
+			},
+			{
+				"state" : "CO"
+			},
+			{
+				"state" : "CO"
+			},
+			{
+				"state" : "CO"
+			}
+		],
+		"id" : {
+			"bioguide" : "P000593"
+		},
+		"name" : {
+			"last" : "Perlmutter",
+			"first" : "Ed"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "MI"
+			},
+			{
+				"state" : "MI"
+			},
+			{
+				"state" : "MI"
+			}
+		],
+		"id" : {
+			"bioguide" : "P000595"
+		},
+		"name" : {
+			"last" : "Peters",
+			"first" : "Gary"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "MN"
+			},
+			{
+				"state" : "MN"
+			},
+			{
+				"state" : "MN"
+			},
+			{
+				"state" : "MN"
+			},
+			{
+				"state" : "MN"
+			},
+			{
+				"state" : "MN"
+			},
+			{
+				"state" : "MN"
+			},
+			{
+				"state" : "MN"
+			},
+			{
+				"state" : "MN"
+			},
+			{
+				"state" : "MN"
+			},
+			{
+				"state" : "MN"
+			},
+			{
+				"state" : "MN"
+			}
+		],
+		"id" : {
+			"bioguide" : "P000258"
+		},
+		"name" : {
+			"last" : "Peterson",
+			"first" : "Collin"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "WI"
+			},
+			{
+				"state" : "WI"
+			},
+			{
+				"state" : "WI"
+			},
+			{
+				"state" : "WI"
+			},
+			{
+				"state" : "WI"
+			},
+			{
+				"state" : "WI"
+			},
+			{
+				"state" : "WI"
+			},
+			{
+				"state" : "WI"
+			},
+			{
+				"state" : "WI"
+			},
+			{
+				"state" : "WI"
+			},
+			{
+				"state" : "WI"
+			},
+			{
+				"state" : "WI"
+			},
+			{
+				"state" : "WI"
+			},
+			{
+				"state" : "WI"
+			},
+			{
+				"state" : "WI"
+			},
+			{
+				"state" : "WI"
+			},
+			{
+				"state" : "WI"
+			},
+			{
+				"state" : "WI"
+			}
+		],
+		"id" : {
+			"bioguide" : "P000265"
+		},
+		"name" : {
+			"first" : "Thomas",
+			"last" : "Petri"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "PR"
+			},
+			{
+				"state" : "PR"
+			}
+		],
+		"id" : {
+			"bioguide" : "P000596"
+		},
+		"name" : {
+			"last" : "Pierluisi",
+			"first" : "Pedro"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "ME"
+			},
+			{
+				"state" : "ME"
+			},
+			{
+				"state" : "ME"
+			}
+		],
+		"id" : {
+			"bioguide" : "P000597"
+		},
+		"name" : {
+			"last" : "Pingree",
+			"first" : "Chellie"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "PA"
+			},
+			{
+				"state" : "PA"
+			},
+			{
+				"state" : "PA"
+			},
+			{
+				"state" : "PA"
+			},
+			{
+				"state" : "PA"
+			},
+			{
+				"state" : "PA"
+			},
+			{
+				"state" : "PA"
+			},
+			{
+				"state" : "PA"
+			},
+			{
+				"state" : "PA"
+			}
+		],
+		"id" : {
+			"bioguide" : "P000373"
+		},
+		"name" : {
+			"last" : "Pitts",
+			"first" : "Joseph"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			}
+		],
+		"id" : {
+			"bioguide" : "P000592"
+		},
+		"name" : {
+			"last" : "Poe",
+			"first" : "Ted"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "CO"
+			},
+			{
+				"state" : "CO"
+			},
+			{
+				"state" : "CO"
+			}
+		],
+		"id" : {
+			"bioguide" : "P000598"
+		},
+		"name" : {
+			"last" : "Polis",
+			"first" : "Jared"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "KS"
+			},
+			{
+				"state" : "KS"
+			}
+		],
+		"id" : {
+			"bioguide" : "P000602"
+		},
+		"name" : {
+			"last" : "Pompeo",
+			"first" : "Mike"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "OH"
+			},
+			{
+				"state" : "OH"
+			},
+			{
+				"state" : "OH"
+			},
+			{
+				"state" : "OH"
+			},
+			{
+				"state" : "OH"
+			},
+			{
+				"state" : "OH"
+			},
+			{
+				"state" : "OH"
+			},
+			{
+				"state" : "OH"
+			}
+		],
+		"id" : {
+			"bioguide" : "P000449"
+		},
+		"name" : {
+			"first" : "Robert",
+			"last" : "Portman"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "FL"
+			},
+			{
+				"state" : "FL"
+			},
+			{
+				"state" : "FL"
+			}
+		],
+		"id" : {
+			"bioguide" : "P000599"
+		},
+		"name" : {
+			"last" : "Posey",
+			"first" : "Bill"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "NC"
+			},
+			{
+				"state" : "NC"
+			},
+			{
+				"state" : "NC"
+			},
+			{
+				"state" : "NC"
+			},
+			{
+				"state" : "NC"
+			},
+			{
+				"state" : "NC"
+			},
+			{
+				"state" : "NC"
+			},
+			{
+				"state" : "NC"
+			},
+			{
+				"state" : "NC"
+			},
+			{
+				"state" : "NC"
+			},
+			{
+				"state" : "NC"
+			},
+			{
+				"state" : "NC"
+			},
+			{
+				"state" : "NC"
+			}
+		],
+		"id" : {
+			"bioguide" : "P000523"
+		},
+		"name" : {
+			"last" : "Price",
+			"first" : "David"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "GA"
+			},
+			{
+				"state" : "GA"
+			},
+			{
+				"state" : "GA"
+			},
+			{
+				"state" : "GA"
+			},
+			{
+				"state" : "GA"
+			}
+		],
+		"id" : {
+			"bioguide" : "P000591"
+		},
+		"name" : {
+			"last" : "Price",
+			"first" : "Tom"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "IL"
+			},
+			{
+				"state" : "IL"
+			},
+			{
+				"state" : "IL"
+			}
+		],
+		"id" : {
+			"bioguide" : "Q000023"
+		},
+		"name" : {
+			"last" : "Quigley",
+			"first" : "Mike"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "WV"
+			},
+			{
+				"state" : "WV"
+			},
+			{
+				"state" : "WV"
+			},
+			{
+				"state" : "WV"
+			},
+			{
+				"state" : "WV"
+			},
+			{
+				"state" : "WV"
+			},
+			{
+				"state" : "WV"
+			},
+			{
+				"state" : "WV"
+			},
+			{
+				"state" : "WV"
+			},
+			{
+				"state" : "WV"
+			},
+			{
+				"state" : "WV"
+			},
+			{
+				"state" : "WV"
+			},
+			{
+				"state" : "WV"
+			},
+			{
+				"state" : "WV"
+			},
+			{
+				"state" : "WV"
+			},
+			{
+				"state" : "WV"
+			},
+			{
+				"state" : "WV"
+			},
+			{
+				"state" : "WV"
+			},
+			{
+				"state" : "WV"
+			}
+		],
+		"id" : {
+			"bioguide" : "R000011"
+		},
+		"name" : {
+			"first" : "Nick",
+			"last" : "Rahall"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "NY"
+			},
+			{
+				"state" : "NY"
+			},
+			{
+				"state" : "NY"
+			},
+			{
+				"state" : "NY"
+			},
+			{
+				"state" : "NY"
+			},
+			{
+				"state" : "NY"
+			},
+			{
+				"state" : "NY"
+			},
+			{
+				"state" : "NY"
+			},
+			{
+				"state" : "NY"
+			},
+			{
+				"state" : "NY"
+			},
+			{
+				"state" : "NY"
+			},
+			{
+				"state" : "NY"
+			},
+			{
+				"state" : "NY"
+			},
+			{
+				"state" : "NY"
+			},
+			{
+				"state" : "NY"
+			},
+			{
+				"state" : "NY"
+			},
+			{
+				"state" : "NY"
+			},
+			{
+				"state" : "NY"
+			},
+			{
+				"state" : "NY"
+			},
+			{
+				"state" : "NY"
+			},
+			{
+				"state" : "NY"
+			},
+			{
+				"state" : "NY"
+			}
+		],
+		"id" : {
+			"bioguide" : "R000053"
+		},
+		"name" : {
+			"last" : "Rangel",
+			"first" : "Charles"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "NY"
+			},
+			{
+				"state" : "NY"
+			},
+			{
+				"state" : "NY"
+			}
+		],
+		"id" : {
+			"bioguide" : "R000585"
+		},
+		"name" : {
+			"first" : "Tom",
+			"last" : "Reed"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "WA"
+			},
+			{
+				"state" : "WA"
+			},
+			{
+				"state" : "WA"
+			},
+			{
+				"state" : "WA"
+			},
+			{
+				"state" : "WA"
+			}
+		],
+		"id" : {
+			"bioguide" : "R000578"
+		},
+		"name" : {
+			"last" : "Reichert",
+			"first" : "David"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "NV"
+			},
+			{
+				"state" : "NV"
+			},
+			{
+				"state" : "NV"
+			},
+			{
+				"state" : "NV"
+			},
+			{
+				"state" : "NV"
+			},
+			{
+				"state" : "NV"
+			},
+			{
+				"state" : "NV"
+			}
+		],
+		"id" : {
+			"bioguide" : "R000146"
+		},
+		"name" : {
+			"last" : "Reid",
+			"first" : "Harry"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "OH"
+			},
+			{
+				"state" : "OH"
+			}
+		],
+		"id" : {
+			"bioguide" : "R000586"
+		},
+		"name" : {
+			"last" : "Renacci",
+			"first" : "James"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "WI"
+			},
+			{
+				"state" : "WI"
+			}
+		],
+		"id" : {
+			"bioguide" : "R000587"
+		},
+		"name" : {
+			"last" : "Ribble",
+			"first" : "Reid"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "LA"
+			},
+			{
+				"state" : "LA"
+			}
+		],
+		"id" : {
+			"bioguide" : "R000588"
+		},
+		"name" : {
+			"last" : "Richmond",
+			"first" : "Cedric"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "VA"
+			},
+			{
+				"state" : "VA"
+			}
+		],
+		"id" : {
+			"bioguide" : "R000589"
+		},
+		"name" : {
+			"last" : "Rigell",
+			"first" : "E."
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "AL"
+			},
+			{
+				"state" : "AL"
+			}
+		],
+		"id" : {
+			"bioguide" : "R000591"
+		},
+		"name" : {
+			"last" : "Roby",
+			"first" : "Martha"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "TN"
+			},
+			{
+				"state" : "TN"
+			},
+			{
+				"state" : "TN"
+			}
+		],
+		"id" : {
+			"bioguide" : "R000582"
+		},
+		"name" : {
+			"last" : "Roe",
+			"first" : "David"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "KY"
+			},
+			{
+				"state" : "KY"
+			},
+			{
+				"state" : "KY"
+			},
+			{
+				"state" : "KY"
+			},
+			{
+				"state" : "KY"
+			},
+			{
+				"state" : "KY"
+			},
+			{
+				"state" : "KY"
+			},
+			{
+				"state" : "KY"
+			},
+			{
+				"state" : "KY"
+			},
+			{
+				"state" : "KY"
+			},
+			{
+				"state" : "KY"
+			},
+			{
+				"state" : "KY"
+			},
+			{
+				"state" : "KY"
+			},
+			{
+				"state" : "KY"
+			},
+			{
+				"state" : "KY"
+			},
+			{
+				"state" : "KY"
+			},
+			{
+				"state" : "KY"
+			}
+		],
+		"id" : {
+			"bioguide" : "R000395"
+		},
+		"name" : {
+			"last" : "Rogers",
+			"first" : "Harold"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "MI"
+			},
+			{
+				"state" : "MI"
+			},
+			{
+				"state" : "MI"
+			},
+			{
+				"state" : "MI"
+			},
+			{
+				"state" : "MI"
+			},
+			{
+				"state" : "MI"
+			},
+			{
+				"state" : "MI"
+			}
+		],
+		"id" : {
+			"bioguide" : "R000572"
+		},
+		"name" : {
+			"last" : "Rogers",
+			"first" : "Mike"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "AL"
+			},
+			{
+				"state" : "AL"
+			},
+			{
+				"state" : "AL"
+			},
+			{
+				"state" : "AL"
+			},
+			{
+				"state" : "AL"
+			},
+			{
+				"state" : "AL"
+			}
+		],
+		"id" : {
+			"bioguide" : "R000575"
+		},
+		"name" : {
+			"last" : "Rogers",
+			"first" : "Mike"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			}
+		],
+		"id" : {
+			"bioguide" : "R000409"
+		},
+		"name" : {
+			"last" : "Rohrabacher",
+			"first" : "Dana"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "IN"
+			},
+			{
+				"state" : "IN"
+			}
+		],
+		"id" : {
+			"bioguide" : "R000592"
+		},
+		"name" : {
+			"last" : "Rokita",
+			"first" : "Todd"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "FL"
+			},
+			{
+				"state" : "FL"
+			},
+			{
+				"state" : "FL"
+			}
+		],
+		"id" : {
+			"bioguide" : "R000583"
+		},
+		"name" : {
+			"last" : "Rooney",
+			"first" : "Thomas"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "FL"
+			},
+			{
+				"state" : "FL"
+			},
+			{
+				"state" : "FL"
+			},
+			{
+				"state" : "FL"
+			},
+			{
+				"state" : "FL"
+			},
+			{
+				"state" : "FL"
+			},
+			{
+				"state" : "FL"
+			},
+			{
+				"state" : "FL"
+			},
+			{
+				"state" : "FL"
+			},
+			{
+				"state" : "FL"
+			},
+			{
+				"state" : "FL"
+			},
+			{
+				"state" : "FL"
+			},
+			{
+				"state" : "FL"
+			}
+		],
+		"id" : {
+			"bioguide" : "R000435"
+		},
+		"name" : {
+			"last" : "Ros-Lehtinen",
+			"first" : "Ileana"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "IL"
+			},
+			{
+				"state" : "IL"
+			},
+			{
+				"state" : "IL"
+			},
+			{
+				"state" : "IL"
+			}
+		],
+		"id" : {
+			"bioguide" : "R000580"
+		},
+		"name" : {
+			"last" : "Roskam",
+			"first" : "Peter"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "FL"
+			},
+			{
+				"state" : "FL"
+			}
+		],
+		"id" : {
+			"bioguide" : "R000593"
+		},
+		"name" : {
+			"last" : "Ross",
+			"first" : "Dennis"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			}
+		],
+		"id" : {
+			"bioguide" : "R000486"
+		},
+		"name" : {
+			"last" : "Roybal-Allard",
+			"first" : "Lucille"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			}
+		],
+		"id" : {
+			"bioguide" : "R000487"
+		},
+		"name" : {
+			"first" : "Edward",
+			"last" : "Royce"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "FL"
+			}
+		],
+		"id" : {
+			"bioguide" : "R000595"
+		},
+		"name" : {
+			"last" : "Rubio",
+			"first" : "Marco"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "NJ"
+			},
+			{
+				"state" : "NJ"
+			}
+		],
+		"id" : {
+			"bioguide" : "R000594"
+		},
+		"name" : {
+			"last" : "Runyan",
+			"first" : "Jon"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "MD"
+			},
+			{
+				"state" : "MD"
+			},
+			{
+				"state" : "MD"
+			},
+			{
+				"state" : "MD"
+			},
+			{
+				"state" : "MD"
+			},
+			{
+				"state" : "MD"
+			}
+		],
+		"id" : {
+			"bioguide" : "R000576"
+		},
+		"name" : {
+			"last" : "Ruppersberger",
+			"first" : "C."
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "IL"
+			},
+			{
+				"state" : "IL"
+			},
+			{
+				"state" : "IL"
+			},
+			{
+				"state" : "IL"
+			},
+			{
+				"state" : "IL"
+			},
+			{
+				"state" : "IL"
+			},
+			{
+				"state" : "IL"
+			},
+			{
+				"state" : "IL"
+			},
+			{
+				"state" : "IL"
+			},
+			{
+				"state" : "IL"
+			},
+			{
+				"state" : "IL"
+			}
+		],
+		"id" : {
+			"bioguide" : "R000515"
+		},
+		"name" : {
+			"last" : "Rush",
+			"first" : "Bobby"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "WI"
+			},
+			{
+				"state" : "WI"
+			},
+			{
+				"state" : "WI"
+			},
+			{
+				"state" : "WI"
+			},
+			{
+				"state" : "WI"
+			},
+			{
+				"state" : "WI"
+			},
+			{
+				"state" : "WI"
+			},
+			{
+				"state" : "WI"
+			}
+		],
+		"id" : {
+			"bioguide" : "R000570"
+		},
+		"name" : {
+			"last" : "Ryan",
+			"first" : "Paul"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "OH"
+			},
+			{
+				"state" : "OH"
+			},
+			{
+				"state" : "OH"
+			},
+			{
+				"state" : "OH"
+			},
+			{
+				"state" : "OH"
+			},
+			{
+				"state" : "OH"
+			}
+		],
+		"id" : {
+			"bioguide" : "R000577"
+		},
+		"name" : {
+			"last" : "Ryan",
+			"first" : "Tim"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "MP"
+			},
+			{
+				"state" : "MP"
+			},
+			{
+				"state" : "MP"
+			}
+		],
+		"id" : {
+			"bioguide" : "S001177"
+		},
+		"name" : {
+			"last" : "Sablan",
+			"first" : "Gregorio"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			}
+		],
+		"id" : {
+			"bioguide" : "S000030"
+		},
+		"name" : {
+			"last" : "Sanchez",
+			"first" : "Loretta"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "MD"
+			},
+			{
+				"state" : "MD"
+			},
+			{
+				"state" : "MD"
+			},
+			{
+				"state" : "MD"
+			}
+		],
+		"id" : {
+			"bioguide" : "S001168"
+		},
+		"name" : {
+			"last" : "Sarbanes",
+			"first" : "John"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "LA"
+			},
+			{
+				"state" : "LA"
+			},
+			{
+				"state" : "LA"
+			},
+			{
+				"state" : "LA"
+			}
+		],
+		"id" : {
+			"bioguide" : "S001176"
+		},
+		"name" : {
+			"last" : "Scalise",
+			"first" : "Steve"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "IL"
+			},
+			{
+				"state" : "IL"
+			},
+			{
+				"state" : "IL"
+			},
+			{
+				"state" : "IL"
+			},
+			{
+				"state" : "IL"
+			},
+			{
+				"state" : "IL"
+			},
+			{
+				"state" : "IL"
+			},
+			{
+				"state" : "IL"
+			}
+		],
+		"id" : {
+			"bioguide" : "S001145"
+		},
+		"name" : {
+			"first" : "Janice",
+			"last" : "Schakowsky"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			}
+		],
+		"id" : {
+			"bioguide" : "S001150"
+		},
+		"name" : {
+			"last" : "Schiff",
+			"first" : "Adam"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "IL"
+			},
+			{
+				"state" : "IL"
+			},
+			{
+				"state" : "IL"
+			}
+		],
+		"id" : {
+			"bioguide" : "S001179"
+		},
+		"name" : {
+			"last" : "Schock",
+			"first" : "Aaron"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "OR"
+			},
+			{
+				"state" : "OR"
+			},
+			{
+				"state" : "OR"
+			}
+		],
+		"id" : {
+			"bioguide" : "S001180"
+		},
+		"name" : {
+			"last" : "Schrader",
+			"first" : "Kurt"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "NY"
+			},
+			{
+				"state" : "NY"
+			},
+			{
+				"state" : "NY"
+			},
+			{
+				"state" : "NY"
+			},
+			{
+				"state" : "NY"
+			},
+			{
+				"state" : "NY"
+			},
+			{
+				"state" : "NY"
+			},
+			{
+				"state" : "NY"
+			},
+			{
+				"state" : "NY"
+			},
+			{
+				"state" : "NY"
+			},
+			{
+				"state" : "NY"
+			},
+			{
+				"state" : "NY"
+			}
+		],
+		"id" : {
+			"bioguide" : "S000148"
+		},
+		"name" : {
+			"last" : "Schumer",
+			"first" : "Charles"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "PA"
+			},
+			{
+				"state" : "PA"
+			},
+			{
+				"state" : "PA"
+			},
+			{
+				"state" : "PA"
+			},
+			{
+				"state" : "PA"
+			}
+		],
+		"id" : {
+			"bioguide" : "S001162"
+		},
+		"name" : {
+			"last" : "Schwartz",
+			"first" : "Allyson"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "AZ"
+			},
+			{
+				"state" : "AZ"
+			}
+		],
+		"id" : {
+			"bioguide" : "S001183"
+		},
+		"name" : {
+			"last" : "Schweikert",
+			"first" : "David"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "GA"
+			},
+			{
+				"state" : "GA"
+			}
+		],
+		"id" : {
+			"bioguide" : "S001189"
+		},
+		"name" : {
+			"last" : "Scott",
+			"first" : "Austin"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "GA"
+			},
+			{
+				"state" : "GA"
+			},
+			{
+				"state" : "GA"
+			},
+			{
+				"state" : "GA"
+			},
+			{
+				"state" : "GA"
+			},
+			{
+				"state" : "GA"
+			}
+		],
+		"id" : {
+			"bioguide" : "S001157"
+		},
+		"name" : {
+			"last" : "Scott",
+			"first" : "David"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "VA"
+			},
+			{
+				"state" : "VA"
+			},
+			{
+				"state" : "VA"
+			},
+			{
+				"state" : "VA"
+			},
+			{
+				"state" : "VA"
+			},
+			{
+				"state" : "VA"
+			},
+			{
+				"state" : "VA"
+			},
+			{
+				"state" : "VA"
+			},
+			{
+				"state" : "VA"
+			},
+			{
+				"state" : "VA"
+			},
+			{
+				"state" : "VA"
+			}
+		],
+		"id" : {
+			"bioguide" : "S000185"
+		},
+		"name" : {
+			"first" : "Robert",
+			"last" : "Scott"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "SC"
+			},
+			{
+				"state" : "SC"
+			}
+		],
+		"id" : {
+			"bioguide" : "S001184"
+		},
+		"name" : {
+			"last" : "Scott",
+			"first" : "Tim"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "WI"
+			},
+			{
+				"state" : "WI"
+			},
+			{
+				"state" : "WI"
+			},
+			{
+				"state" : "WI"
+			},
+			{
+				"state" : "WI"
+			},
+			{
+				"state" : "WI"
+			},
+			{
+				"state" : "WI"
+			},
+			{
+				"state" : "WI"
+			},
+			{
+				"state" : "WI"
+			},
+			{
+				"state" : "WI"
+			},
+			{
+				"state" : "WI"
+			},
+			{
+				"state" : "WI"
+			},
+			{
+				"state" : "WI"
+			},
+			{
+				"state" : "WI"
+			},
+			{
+				"state" : "WI"
+			},
+			{
+				"state" : "WI"
+			},
+			{
+				"state" : "WI"
+			},
+			{
+				"state" : "WI"
+			}
+		],
+		"id" : {
+			"bioguide" : "S000244"
+		},
+		"name" : {
+			"first" : "F.",
+			"last" : "Sensenbrenner"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "NY"
+			},
+			{
+				"state" : "NY"
+			},
+			{
+				"state" : "NY"
+			},
+			{
+				"state" : "NY"
+			},
+			{
+				"state" : "NY"
+			},
+			{
+				"state" : "NY"
+			},
+			{
+				"state" : "NY"
+			},
+			{
+				"state" : "NY"
+			},
+			{
+				"state" : "NY"
+			},
+			{
+				"state" : "NY"
+			},
+			{
+				"state" : "NY"
+			},
+			{
+				"state" : "NY"
+			},
+			{
+				"state" : "NY"
+			}
+		],
+		"id" : {
+			"bioguide" : "S000248"
+		},
+		"name" : {
+			"last" : "Serrano",
+			"first" : "José"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			}
+		],
+		"id" : {
+			"bioguide" : "S000250"
+		},
+		"name" : {
+			"last" : "Sessions",
+			"first" : "Pete"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "AL"
+			},
+			{
+				"state" : "AL"
+			}
+		],
+		"id" : {
+			"bioguide" : "S001185"
+		},
+		"name" : {
+			"last" : "Sewell",
+			"first" : "Terri"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "AL"
+			},
+			{
+				"state" : "AL"
+			},
+			{
+				"state" : "AL"
+			},
+			{
+				"state" : "AL"
+			},
+			{
+				"state" : "AL"
+			},
+			{
+				"state" : "AL"
+			},
+			{
+				"state" : "AL"
+			},
+			{
+				"state" : "AL"
+			},
+			{
+				"state" : "AL"
+			}
+		],
+		"id" : {
+			"bioguide" : "S000320"
+		},
+		"name" : {
+			"last" : "Shelby",
+			"first" : "Richard"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			}
+		],
+		"id" : {
+			"bioguide" : "S000344"
+		},
+		"name" : {
+			"last" : "Sherman",
+			"first" : "Brad"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "IL"
+			},
+			{
+				"state" : "IL"
+			},
+			{
+				"state" : "IL"
+			},
+			{
+				"state" : "IL"
+			},
+			{
+				"state" : "IL"
+			},
+			{
+				"state" : "IL"
+			},
+			{
+				"state" : "IL"
+			},
+			{
+				"state" : "IL"
+			},
+			{
+				"state" : "IL"
+			}
+		],
+		"id" : {
+			"bioguide" : "S000364"
+		},
+		"name" : {
+			"last" : "Shimkus",
+			"first" : "John"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "PA"
+			},
+			{
+				"state" : "PA"
+			},
+			{
+				"state" : "PA"
+			},
+			{
+				"state" : "PA"
+			},
+			{
+				"state" : "PA"
+			},
+			{
+				"state" : "PA"
+			},
+			{
+				"state" : "PA"
+			}
+		],
+		"id" : {
+			"bioguide" : "S001154"
+		},
+		"name" : {
+			"last" : "Shuster",
+			"first" : "Bill"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "ID"
+			},
+			{
+				"state" : "ID"
+			},
+			{
+				"state" : "ID"
+			},
+			{
+				"state" : "ID"
+			},
+			{
+				"state" : "ID"
+			},
+			{
+				"state" : "ID"
+			},
+			{
+				"state" : "ID"
+			},
+			{
+				"state" : "ID"
+			}
+		],
+		"id" : {
+			"bioguide" : "S001148"
+		},
+		"name" : {
+			"first" : "Michael",
+			"last" : "Simpson"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "NJ"
+			},
+			{
+				"state" : "NJ"
+			},
+			{
+				"state" : "NJ"
+			},
+			{
+				"state" : "NJ"
+			},
+			{
+				"state" : "NJ"
+			}
+		],
+		"id" : {
+			"bioguide" : "S001165"
+		},
+		"name" : {
+			"last" : "Sires",
+			"first" : "Albio"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "NY"
+			},
+			{
+				"state" : "NY"
+			},
+			{
+				"state" : "NY"
+			},
+			{
+				"state" : "NY"
+			},
+			{
+				"state" : "NY"
+			},
+			{
+				"state" : "NY"
+			},
+			{
+				"state" : "NY"
+			},
+			{
+				"state" : "NY"
+			},
+			{
+				"state" : "NY"
+			},
+			{
+				"state" : "NY"
+			},
+			{
+				"state" : "NY"
+			},
+			{
+				"state" : "NY"
+			},
+			{
+				"state" : "NY"
+			},
+			{
+				"state" : "NY"
+			}
+		],
+		"id" : {
+			"bioguide" : "S000480"
+		},
+		"name" : {
+			"last" : "Slaughter",
+			"first" : "Louise"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "WA"
+			},
+			{
+				"state" : "WA"
+			},
+			{
+				"state" : "WA"
+			},
+			{
+				"state" : "WA"
+			},
+			{
+				"state" : "WA"
+			},
+			{
+				"state" : "WA"
+			},
+			{
+				"state" : "WA"
+			},
+			{
+				"state" : "WA"
+			},
+			{
+				"state" : "WA"
+			}
+		],
+		"id" : {
+			"bioguide" : "S000510"
+		},
+		"name" : {
+			"last" : "Smith",
+			"first" : "Adam"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "NE"
+			},
+			{
+				"state" : "NE"
+			},
+			{
+				"state" : "NE"
+			},
+			{
+				"state" : "NE"
+			}
+		],
+		"id" : {
+			"bioguide" : "S001172"
+		},
+		"name" : {
+			"last" : "Smith",
+			"first" : "Adrian"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "NJ"
+			},
+			{
+				"state" : "NJ"
+			},
+			{
+				"state" : "NJ"
+			},
+			{
+				"state" : "NJ"
+			},
+			{
+				"state" : "NJ"
+			},
+			{
+				"state" : "NJ"
+			},
+			{
+				"state" : "NJ"
+			},
+			{
+				"state" : "NJ"
+			},
+			{
+				"state" : "NJ"
+			},
+			{
+				"state" : "NJ"
+			},
+			{
+				"state" : "NJ"
+			},
+			{
+				"state" : "NJ"
+			},
+			{
+				"state" : "NJ"
+			},
+			{
+				"state" : "NJ"
+			},
+			{
+				"state" : "NJ"
+			},
+			{
+				"state" : "NJ"
+			},
+			{
+				"state" : "NJ"
+			}
+		],
+		"id" : {
+			"bioguide" : "S000522"
+		},
+		"name" : {
+			"first" : "Christopher",
+			"last" : "Smith"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			}
+		],
+		"id" : {
+			"bioguide" : "S000583"
+		},
+		"name" : {
+			"last" : "Smith",
+			"first" : "Lamar"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "FL"
+			},
+			{
+				"state" : "FL"
+			}
+		],
+		"id" : {
+			"bioguide" : "S001186"
+		},
+		"name" : {
+			"last" : "Southerland",
+			"first" : "Steve"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			}
+		],
+		"id" : {
+			"bioguide" : "S001175"
+		},
+		"name" : {
+			"last" : "Speier",
+			"first" : "Jackie"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "OH"
+			},
+			{
+				"state" : "OH"
+			}
+		],
+		"id" : {
+			"bioguide" : "S001187"
+		},
+		"name" : {
+			"last" : "Stivers",
+			"first" : "Steve"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "IN"
+			},
+			{
+				"state" : "IN"
+			},
+			{
+				"state" : "IN"
+			}
+		],
+		"id" : {
+			"bioguide" : "S001188"
+		},
+		"name" : {
+			"last" : "Stutzman",
+			"first" : "Marlin"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			}
+		],
+		"id" : {
+			"bioguide" : "S001156"
+		},
+		"name" : {
+			"last" : "Sánchez",
+			"first" : "Linda"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "NE"
+			},
+			{
+				"state" : "NE"
+			},
+			{
+				"state" : "NE"
+			},
+			{
+				"state" : "NE"
+			},
+			{
+				"state" : "NE"
+			},
+			{
+				"state" : "NE"
+			},
+			{
+				"state" : "NE"
+			},
+			{
+				"state" : "NE"
+			}
+		],
+		"id" : {
+			"bioguide" : "T000459"
+		},
+		"name" : {
+			"last" : "Terry",
+			"first" : "Lee"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "MS"
+			},
+			{
+				"state" : "MS"
+			},
+			{
+				"state" : "MS"
+			},
+			{
+				"state" : "MS"
+			},
+			{
+				"state" : "MS"
+			},
+			{
+				"state" : "MS"
+			},
+			{
+				"state" : "MS"
+			},
+			{
+				"state" : "MS"
+			},
+			{
+				"state" : "MS"
+			},
+			{
+				"state" : "MS"
+			},
+			{
+				"state" : "MS"
+			}
+		],
+		"id" : {
+			"bioguide" : "T000193"
+		},
+		"name" : {
+			"last" : "Thompson",
+			"first" : "Bennie"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			}
+		],
+		"id" : {
+			"bioguide" : "T000460"
+		},
+		"name" : {
+			"last" : "Thompson",
+			"first" : "Mike"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "PA"
+			},
+			{
+				"state" : "PA"
+			},
+			{
+				"state" : "PA"
+			}
+		],
+		"id" : {
+			"bioguide" : "T000467"
+		},
+		"name" : {
+			"last" : "Thompson",
+			"first" : "Glenn"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			}
+		],
+		"id" : {
+			"bioguide" : "T000238"
+		},
+		"name" : {
+			"last" : "Thornberry",
+			"first" : "Mac"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "SD"
+			},
+			{
+				"state" : "SD"
+			},
+			{
+				"state" : "SD"
+			},
+			{
+				"state" : "SD"
+			},
+			{
+				"state" : "SD"
+			}
+		],
+		"id" : {
+			"bioguide" : "T000250"
+		},
+		"name" : {
+			"last" : "Thune",
+			"first" : "John"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "OH"
+			},
+			{
+				"state" : "OH"
+			},
+			{
+				"state" : "OH"
+			},
+			{
+				"state" : "OH"
+			},
+			{
+				"state" : "OH"
+			},
+			{
+				"state" : "OH"
+			},
+			{
+				"state" : "OH"
+			}
+		],
+		"id" : {
+			"bioguide" : "T000462"
+		},
+		"name" : {
+			"first" : "Patrick",
+			"last" : "Tiberi"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "MA"
+			},
+			{
+				"state" : "MA"
+			},
+			{
+				"state" : "MA"
+			},
+			{
+				"state" : "MA"
+			},
+			{
+				"state" : "MA"
+			},
+			{
+				"state" : "MA"
+			},
+			{
+				"state" : "MA"
+			},
+			{
+				"state" : "MA"
+			},
+			{
+				"state" : "MA"
+			}
+		],
+		"id" : {
+			"bioguide" : "T000266"
+		},
+		"name" : {
+			"last" : "Tierney",
+			"first" : "John"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "CO"
+			},
+			{
+				"state" : "CO"
+			}
+		],
+		"id" : {
+			"bioguide" : "T000470"
+		},
+		"name" : {
+			"last" : "Tipton",
+			"first" : "Scott"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "NY"
+			},
+			{
+				"state" : "NY"
+			},
+			{
+				"state" : "NY"
+			}
+		],
+		"id" : {
+			"bioguide" : "T000469"
+		},
+		"name" : {
+			"last" : "Tonko",
+			"first" : "Paul"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "PA"
+			},
+			{
+				"state" : "PA"
+			},
+			{
+				"state" : "PA"
+			},
+			{
+				"state" : "PA"
+			}
+		],
+		"id" : {
+			"bioguide" : "T000461"
+		},
+		"name" : {
+			"first" : "Patrick",
+			"last" : "Toomey"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "MA"
+			},
+			{
+				"state" : "MA"
+			},
+			{
+				"state" : "MA"
+			},
+			{
+				"state" : "MA"
+			}
+		],
+		"id" : {
+			"bioguide" : "T000465"
+		},
+		"name" : {
+			"last" : "Tsongas",
+			"first" : "Niki"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "OH"
+			},
+			{
+				"state" : "OH"
+			},
+			{
+				"state" : "OH"
+			},
+			{
+				"state" : "OH"
+			},
+			{
+				"state" : "OH"
+			},
+			{
+				"state" : "OH"
+			}
+		],
+		"id" : {
+			"bioguide" : "T000463"
+		},
+		"name" : {
+			"last" : "Turner",
+			"first" : "Michael"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "MI"
+			},
+			{
+				"state" : "MI"
+			},
+			{
+				"state" : "MI"
+			},
+			{
+				"state" : "MI"
+			},
+			{
+				"state" : "MI"
+			},
+			{
+				"state" : "MI"
+			},
+			{
+				"state" : "MI"
+			},
+			{
+				"state" : "MI"
+			},
+			{
+				"state" : "MI"
+			},
+			{
+				"state" : "MI"
+			},
+			{
+				"state" : "MI"
+			},
+			{
+				"state" : "MI"
+			},
+			{
+				"state" : "MI"
+			},
+			{
+				"state" : "MI"
+			}
+		],
+		"id" : {
+			"bioguide" : "U000031"
+		},
+		"name" : {
+			"last" : "Upton",
+			"first" : "Fred"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "MD"
+			},
+			{
+				"state" : "MD"
+			},
+			{
+				"state" : "MD"
+			},
+			{
+				"state" : "MD"
+			},
+			{
+				"state" : "MD"
+			},
+			{
+				"state" : "MD"
+			}
+		],
+		"id" : {
+			"bioguide" : "V000128"
+		},
+		"name" : {
+			"last" : "Van Hollen",
+			"first" : "Chris"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "NY"
+			},
+			{
+				"state" : "NY"
+			},
+			{
+				"state" : "NY"
+			},
+			{
+				"state" : "NY"
+			},
+			{
+				"state" : "NY"
+			},
+			{
+				"state" : "NY"
+			},
+			{
+				"state" : "NY"
+			},
+			{
+				"state" : "NY"
+			},
+			{
+				"state" : "NY"
+			},
+			{
+				"state" : "NY"
+			},
+			{
+				"state" : "NY"
+			}
+		],
+		"id" : {
+			"bioguide" : "V000081"
+		},
+		"name" : {
+			"last" : "Velázquez",
+			"first" : "Nydia"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "IN"
+			},
+			{
+				"state" : "IN"
+			},
+			{
+				"state" : "IN"
+			},
+			{
+				"state" : "IN"
+			},
+			{
+				"state" : "IN"
+			},
+			{
+				"state" : "IN"
+			},
+			{
+				"state" : "IN"
+			},
+			{
+				"state" : "IN"
+			},
+			{
+				"state" : "IN"
+			},
+			{
+				"state" : "IN"
+			},
+			{
+				"state" : "IN"
+			},
+			{
+				"state" : "IN"
+			},
+			{
+				"state" : "IN"
+			},
+			{
+				"state" : "IN"
+			},
+			{
+				"state" : "IN"
+			}
+		],
+		"id" : {
+			"bioguide" : "V000108"
+		},
+		"name" : {
+			"last" : "Visclosky",
+			"first" : "Peter"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "LA"
+			},
+			{
+				"state" : "LA"
+			},
+			{
+				"state" : "LA"
+			},
+			{
+				"state" : "LA"
+			},
+			{
+				"state" : "LA"
+			}
+		],
+		"id" : {
+			"bioguide" : "V000127"
+		},
+		"name" : {
+			"last" : "Vitter",
+			"first" : "David"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "MI"
+			},
+			{
+				"state" : "MI"
+			},
+			{
+				"state" : "MI"
+			}
+		],
+		"id" : {
+			"bioguide" : "W000798"
+		},
+		"name" : {
+			"last" : "Walberg",
+			"first" : "Tim"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "OR"
+			},
+			{
+				"state" : "OR"
+			},
+			{
+				"state" : "OR"
+			},
+			{
+				"state" : "OR"
+			},
+			{
+				"state" : "OR"
+			},
+			{
+				"state" : "OR"
+			},
+			{
+				"state" : "OR"
+			},
+			{
+				"state" : "OR"
+			}
+		],
+		"id" : {
+			"bioguide" : "W000791"
+		},
+		"name" : {
+			"last" : "Walden",
+			"first" : "Greg"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "MN"
+			},
+			{
+				"state" : "MN"
+			},
+			{
+				"state" : "MN"
+			},
+			{
+				"state" : "MN"
+			}
+		],
+		"id" : {
+			"bioguide" : "W000799"
+		},
+		"name" : {
+			"last" : "Walz",
+			"first" : "Timothy"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "FL"
+			},
+			{
+				"state" : "FL"
+			},
+			{
+				"state" : "FL"
+			},
+			{
+				"state" : "FL"
+			},
+			{
+				"state" : "FL"
+			}
+		],
+		"id" : {
+			"bioguide" : "W000797"
+		},
+		"name" : {
+			"last" : "Wasserman Schultz",
+			"first" : "Debbie"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			}
+		],
+		"id" : {
+			"bioguide" : "W000187"
+		},
+		"name" : {
+			"last" : "Waters",
+			"first" : "Maxine"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "NC"
+			},
+			{
+				"state" : "NC"
+			},
+			{
+				"state" : "NC"
+			},
+			{
+				"state" : "NC"
+			},
+			{
+				"state" : "NC"
+			},
+			{
+				"state" : "NC"
+			},
+			{
+				"state" : "NC"
+			},
+			{
+				"state" : "NC"
+			},
+			{
+				"state" : "NC"
+			},
+			{
+				"state" : "NC"
+			},
+			{
+				"state" : "NC"
+			}
+		],
+		"id" : {
+			"bioguide" : "W000207"
+		},
+		"name" : {
+			"first" : "Melvin",
+			"last" : "Watt"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			}
+		],
+		"id" : {
+			"bioguide" : "W000215"
+		},
+		"name" : {
+			"last" : "Waxman",
+			"first" : "Henry"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "FL"
+			},
+			{
+				"state" : "FL"
+			}
+		],
+		"id" : {
+			"bioguide" : "W000806"
+		},
+		"name" : {
+			"last" : "Webster",
+			"first" : "Daniel"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "FL"
+			},
+			{
+				"state" : "FL"
+			}
+		],
+		"id" : {
+			"bioguide" : "W000808"
+		},
+		"name" : {
+			"last" : "Wilson",
+			"first" : "Frederica"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "VT"
+			},
+			{
+				"state" : "VT"
+			},
+			{
+				"state" : "VT"
+			},
+			{
+				"state" : "VT"
+			}
+		],
+		"id" : {
+			"bioguide" : "W000800"
+		},
+		"name" : {
+			"last" : "Welch",
+			"first" : "Peter"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "GA"
+			},
+			{
+				"state" : "GA"
+			},
+			{
+				"state" : "GA"
+			},
+			{
+				"state" : "GA"
+			},
+			{
+				"state" : "GA"
+			}
+		],
+		"id" : {
+			"bioguide" : "W000796"
+		},
+		"name" : {
+			"last" : "Westmoreland",
+			"first" : "Lynn"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "KY"
+			},
+			{
+				"state" : "KY"
+			},
+			{
+				"state" : "KY"
+			},
+			{
+				"state" : "KY"
+			},
+			{
+				"state" : "KY"
+			},
+			{
+				"state" : "KY"
+			},
+			{
+				"state" : "KY"
+			},
+			{
+				"state" : "KY"
+			},
+			{
+				"state" : "KY"
+			},
+			{
+				"state" : "KY"
+			}
+		],
+		"id" : {
+			"bioguide" : "W000413"
+		},
+		"name" : {
+			"last" : "Whitfield",
+			"first" : "Ed"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "SC"
+			},
+			{
+				"state" : "SC"
+			},
+			{
+				"state" : "SC"
+			},
+			{
+				"state" : "SC"
+			},
+			{
+				"state" : "SC"
+			},
+			{
+				"state" : "SC"
+			},
+			{
+				"state" : "SC"
+			}
+		],
+		"id" : {
+			"bioguide" : "W000795"
+		},
+		"name" : {
+			"last" : "Wilson",
+			"first" : "Joe"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "VA"
+			},
+			{
+				"state" : "VA"
+			},
+			{
+				"state" : "VA"
+			},
+			{
+				"state" : "VA"
+			}
+		],
+		"id" : {
+			"bioguide" : "W000804"
+		},
+		"name" : {
+			"last" : "Wittman",
+			"first" : "Robert"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "VA"
+			},
+			{
+				"state" : "VA"
+			},
+			{
+				"state" : "VA"
+			},
+			{
+				"state" : "VA"
+			},
+			{
+				"state" : "VA"
+			},
+			{
+				"state" : "VA"
+			},
+			{
+				"state" : "VA"
+			},
+			{
+				"state" : "VA"
+			},
+			{
+				"state" : "VA"
+			},
+			{
+				"state" : "VA"
+			},
+			{
+				"state" : "VA"
+			},
+			{
+				"state" : "VA"
+			},
+			{
+				"state" : "VA"
+			},
+			{
+				"state" : "VA"
+			},
+			{
+				"state" : "VA"
+			},
+			{
+				"state" : "VA"
+			},
+			{
+				"state" : "VA"
+			}
+		],
+		"id" : {
+			"bioguide" : "W000672"
+		},
+		"name" : {
+			"last" : "Wolf",
+			"first" : "Frank"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "AR"
+			},
+			{
+				"state" : "AR"
+			}
+		],
+		"id" : {
+			"bioguide" : "W000809"
+		},
+		"name" : {
+			"last" : "Womack",
+			"first" : "Steve"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "GA"
+			},
+			{
+				"state" : "GA"
+			}
+		],
+		"id" : {
+			"bioguide" : "W000810"
+		},
+		"name" : {
+			"last" : "Woodall",
+			"first" : "Rob"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "OR"
+			},
+			{
+				"state" : "OR"
+			},
+			{
+				"state" : "OR"
+			},
+			{
+				"state" : "OR"
+			},
+			{
+				"state" : "OR"
+			},
+			{
+				"state" : "OR"
+			},
+			{
+				"state" : "OR"
+			},
+			{
+				"state" : "OR"
+			},
+			{
+				"state" : "OR"
+			},
+			{
+				"state" : "OR"
+			},
+			{
+				"state" : "OR"
+			},
+			{
+				"state" : "OR"
+			}
+		],
+		"id" : {
+			"bioguide" : "W000779"
+		},
+		"name" : {
+			"last" : "Wyden",
+			"first" : "Ron"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "KY"
+			},
+			{
+				"state" : "KY"
+			},
+			{
+				"state" : "KY"
+			},
+			{
+				"state" : "KY"
+			}
+		],
+		"id" : {
+			"bioguide" : "Y000062"
+		},
+		"name" : {
+			"last" : "Yarmuth",
+			"first" : "John"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "KS"
+			},
+			{
+				"state" : "KS"
+			}
+		],
+		"id" : {
+			"bioguide" : "Y000063"
+		},
+		"name" : {
+			"last" : "Yoder",
+			"first" : "Kevin"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "FL"
+			},
+			{
+				"state" : "FL"
+			},
+			{
+				"state" : "FL"
+			},
+			{
+				"state" : "FL"
+			},
+			{
+				"state" : "FL"
+			},
+			{
+				"state" : "FL"
+			},
+			{
+				"state" : "FL"
+			},
+			{
+				"state" : "FL"
+			},
+			{
+				"state" : "FL"
+			},
+			{
+				"state" : "FL"
+			},
+			{
+				"state" : "FL"
+			},
+			{
+				"state" : "FL"
+			},
+			{
+				"state" : "FL"
+			},
+			{
+				"state" : "FL"
+			},
+			{
+				"state" : "FL"
+			},
+			{
+				"state" : "FL"
+			},
+			{
+				"state" : "FL"
+			},
+			{
+				"state" : "FL"
+			},
+			{
+				"state" : "FL"
+			},
+			{
+				"state" : "FL"
+			},
+			{
+				"state" : "FL"
+			},
+			{
+				"state" : "FL"
+			}
+		],
+		"id" : {
+			"bioguide" : "Y000031"
+		},
+		"name" : {
+			"last" : "Young",
+			"first" : "C."
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "AK"
+			},
+			{
+				"state" : "AK"
+			},
+			{
+				"state" : "AK"
+			},
+			{
+				"state" : "AK"
+			},
+			{
+				"state" : "AK"
+			},
+			{
+				"state" : "AK"
+			},
+			{
+				"state" : "AK"
+			},
+			{
+				"state" : "AK"
+			},
+			{
+				"state" : "AK"
+			},
+			{
+				"state" : "AK"
+			},
+			{
+				"state" : "AK"
+			},
+			{
+				"state" : "AK"
+			},
+			{
+				"state" : "AK"
+			},
+			{
+				"state" : "AK"
+			},
+			{
+				"state" : "AK"
+			},
+			{
+				"state" : "AK"
+			},
+			{
+				"state" : "AK"
+			},
+			{
+				"state" : "AK"
+			},
+			{
+				"state" : "AK"
+			},
+			{
+				"state" : "AK"
+			},
+			{
+				"state" : "AK"
+			}
+		],
+		"id" : {
+			"bioguide" : "Y000033"
+		},
+		"name" : {
+			"last" : "Young",
+			"first" : "Don"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "IN"
+			},
+			{
+				"state" : "IN"
+			}
+		],
+		"id" : {
+			"bioguide" : "Y000064"
+		},
+		"name" : {
+			"last" : "Young",
+			"first" : "Todd"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "NV"
+			},
+			{
+				"state" : "NV"
+			},
+			{
+				"state" : "NV"
+			},
+			{
+				"state" : "NV"
+			},
+			{
+				"state" : "NV"
+			}
+		],
+		"id" : {
+			"bioguide" : "H001041"
+		},
+		"name" : {
+			"last" : "Heller",
+			"first" : "Dean"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "CA"
+			},
+			{
+				"state" : "CA"
+			}
+		],
+		"id" : {
+			"bioguide" : "H001063"
+		},
+		"name" : {
+			"last" : "Hahn",
+			"first" : "Janice"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "NV"
+			},
+			{
+				"state" : "NV"
+			}
+		],
+		"id" : {
+			"bioguide" : "A000369"
+		},
+		"name" : {
+			"last" : "Amodei",
+			"first" : "Mark"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "OR"
+			},
+			{
+				"state" : "OR"
+			}
+		],
+		"id" : {
+			"bioguide" : "B001278"
+		},
+		"name" : {
+			"last" : "Bonamici",
+			"first" : "Suzanne"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "AZ"
+			},
+			{
+				"state" : "AZ"
+			}
+		],
+		"id" : {
+			"bioguide" : "B001279"
+		},
+		"name" : {
+			"last" : "Barber",
+			"first" : "Ron"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "WA"
+			},
+			{
+				"state" : "WA"
+			}
+		],
+		"id" : {
+			"bioguide" : "D000617"
+		},
+		"name" : {
+			"last" : "DelBene",
+			"first" : "Suzan"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "KY"
+			},
+			{
+				"state" : "KY"
+			}
+		],
+		"id" : {
+			"bioguide" : "M001184"
+		},
+		"name" : {
+			"last" : "Massie",
+			"first" : "Thomas"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "NJ"
+			},
+			{
+				"state" : "NJ"
+			}
+		],
+		"id" : {
+			"bioguide" : "P000604"
+		},
+		"name" : {
+			"first" : "Donald",
+			"last" : "Payne"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "AZ"
+			},
+			{
+				"state" : "AZ"
+			},
+			{
+				"state" : "AZ"
+			},
+			{
+				"state" : "AZ"
+			}
+		],
+		"id" : {
+			"bioguide" : "S000018"
+		},
+		"name" : {
+			"last" : "Salmon",
+			"first" : "Matt"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "TX"
+			},
+			{
+				"state" : "TX"
+			}
+		],
+		"id" : {
+			"bioguide" : "S000937"
+		},
+		"name" : {
+			"last" : "Stockman",
+			"first" : "Steve"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "NH"
+			},
+			{
+				"state" : "NH"
+			},
+			{
+				"state" : "NH"
+			}
+		],
+		"id" : {
+			"bioguide" : "S001170"
+		},
+		"name" : {
+			"last" : "Shea-Porter",
+			"first" : "Carol"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "IL"
+			},
+			{
+				"state" : "IL"
+			},
+			{
+				"state" : "IL"
+			}
+		],
+		"id" : {
+			"bioguide" : "F000454"
+		},
+		"name" : {
+			"last" : "Foster",
+			"first" : "Bill"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "FL"
+			},
+			{
+				"state" : "FL"
+			}
+		],
+		"id" : {
+			"bioguide" : "G000556"
+		},
+		"name" : {
+			"last" : "Grayson",
+			"first" : "Alan"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "AZ"
+			},
+			{
+				"state" : "AZ"
+			}
+		],
+		"id" : {
+			"bioguide" : "K000368"
+		},
+		"name" : {
+			"last" : "Kirkpatrick",
+			"first" : "Ann"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "NY"
+			},
+			{
+				"state" : "NY"
+			}
+		],
+		"id" : {
+			"bioguide" : "M001171"
+		},
+		"name" : {
+			"last" : "Maffei",
+			"first" : "Daniel"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "NV"
+			},
+			{
+				"state" : "NV"
+			}
+		],
+		"id" : {
+			"bioguide" : "T000468"
+		},
+		"name" : {
+			"last" : "Titus",
+			"first" : "Dina"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "AR"
+			}
+		],
+		"id" : {
+			"bioguide" : "C001095"
+		},
+		"name" : {
+			"last" : "Cotton",
+			"first" : "Tom"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "AZ"
+			}
+		],
+		"id" : {
+			"bioguide" : "S001191"
+		},
+		"name" : {
+			"last" : "Sinema",
+			"first" : "Kyrsten"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "CA"
+			}
+		],
+		"id" : {
+			"bioguide" : "L000578"
+		},
+		"name" : {
+			"last" : "LaMalfa",
+			"first" : "Doug"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "CA"
+			}
+		],
+		"id" : {
+			"bioguide" : "H001068"
+		},
+		"name" : {
+			"last" : "Huffman",
+			"first" : "Jared"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "CA"
+			}
+		],
+		"id" : {
+			"bioguide" : "B001287"
+		},
+		"name" : {
+			"last" : "Bera",
+			"first" : "Ami"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "CA"
+			}
+		],
+		"id" : {
+			"bioguide" : "C001094"
+		},
+		"name" : {
+			"last" : "Cook",
+			"first" : "Paul"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "CA"
+			}
+		],
+		"id" : {
+			"bioguide" : "S001193"
+		},
+		"name" : {
+			"last" : "Swalwell",
+			"first" : "Eric"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "CA"
+			}
+		],
+		"id" : {
+			"bioguide" : "V000129"
+		},
+		"name" : {
+			"last" : "Valadao",
+			"first" : "David"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "CA"
+			}
+		],
+		"id" : {
+			"bioguide" : "B001285"
+		},
+		"name" : {
+			"last" : "Brownley",
+			"first" : "Julia"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "CA"
+			}
+		],
+		"id" : {
+			"bioguide" : "C001097"
+		},
+		"name" : {
+			"last" : "Cárdenas",
+			"first" : "Tony"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "CA"
+			}
+		],
+		"id" : {
+			"bioguide" : "N000187"
+		},
+		"name" : {
+			"last" : "Negrete McLeod",
+			"first" : "Gloria"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "CA"
+			}
+		],
+		"id" : {
+			"bioguide" : "R000599"
+		},
+		"name" : {
+			"last" : "Ruiz",
+			"first" : "Raul"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "CA"
+			}
+		],
+		"id" : {
+			"bioguide" : "T000472"
+		},
+		"name" : {
+			"last" : "Takano",
+			"first" : "Mark"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "CA"
+			}
+		],
+		"id" : {
+			"bioguide" : "L000579"
+		},
+		"name" : {
+			"last" : "Lowenthal",
+			"first" : "Alan"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "CA"
+			}
+		],
+		"id" : {
+			"bioguide" : "V000130"
+		},
+		"name" : {
+			"last" : "Vargas",
+			"first" : "Juan"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "CA"
+			}
+		],
+		"id" : {
+			"bioguide" : "P000608"
+		},
+		"name" : {
+			"last" : "Peters",
+			"first" : "Scott"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "CT"
+			}
+		],
+		"id" : {
+			"bioguide" : "E000293"
+		},
+		"name" : {
+			"last" : "Esty",
+			"first" : "Elizabeth"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "FL"
+			}
+		],
+		"id" : {
+			"bioguide" : "Y000065"
+		},
+		"name" : {
+			"last" : "Yoho",
+			"first" : "Ted"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "FL"
+			}
+		],
+		"id" : {
+			"bioguide" : "D000621"
+		},
+		"name" : {
+			"last" : "DeSantis",
+			"first" : "Ron"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "FL"
+			}
+		],
+		"id" : {
+			"bioguide" : "M001191"
+		},
+		"name" : {
+			"last" : "Murphy",
+			"first" : "Patrick"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "FL"
+			}
+		],
+		"id" : {
+			"bioguide" : "R000596"
+		},
+		"name" : {
+			"last" : "Radel",
+			"first" : "Trey"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "FL"
+			}
+		],
+		"id" : {
+			"bioguide" : "F000462"
+		},
+		"name" : {
+			"last" : "Frankel",
+			"first" : "Lois"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "FL"
+			}
+		],
+		"id" : {
+			"bioguide" : "G000573"
+		},
+		"name" : {
+			"last" : "Garcia",
+			"first" : "Joe"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "GA"
+			}
+		],
+		"id" : {
+			"bioguide" : "C001093"
+		},
+		"name" : {
+			"last" : "Collins",
+			"first" : "Doug"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "HI"
+			}
+		],
+		"id" : {
+			"bioguide" : "G000571"
+		},
+		"name" : {
+			"last" : "Gabbard",
+			"first" : "Tulsi"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "IL"
+			}
+		],
+		"id" : {
+			"bioguide" : "D000622"
+		},
+		"name" : {
+			"last" : "Duckworth",
+			"first" : "Tammy"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "IL"
+			}
+		],
+		"id" : {
+			"bioguide" : "S001190"
+		},
+		"name" : {
+			"last" : "Schneider",
+			"first" : "Bradley"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "IL"
+			}
+		],
+		"id" : {
+			"bioguide" : "E000292"
+		},
+		"name" : {
+			"last" : "Enyart",
+			"first" : "William"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "IL"
+			}
+		],
+		"id" : {
+			"bioguide" : "D000619"
+		},
+		"name" : {
+			"last" : "Davis",
+			"first" : "Rodney"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "IL"
+			}
+		],
+		"id" : {
+			"bioguide" : "B001286"
+		},
+		"name" : {
+			"last" : "Bustos",
+			"first" : "Cheri"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "IN"
+			}
+		],
+		"id" : {
+			"bioguide" : "W000813"
+		},
+		"name" : {
+			"last" : "Walorski",
+			"first" : "Jackie"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "IN"
+			}
+		],
+		"id" : {
+			"bioguide" : "B001284"
+		},
+		"name" : {
+			"last" : "Brooks",
+			"first" : "Susan"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "IN"
+			}
+		],
+		"id" : {
+			"bioguide" : "M001189"
+		},
+		"name" : {
+			"last" : "Messer",
+			"first" : "Luke"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "KY"
+			}
+		],
+		"id" : {
+			"bioguide" : "B001282"
+		},
+		"name" : {
+			"last" : "Barr",
+			"first" : "Garland"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "MA"
+			}
+		],
+		"id" : {
+			"bioguide" : "W000817"
+		},
+		"name" : {
+			"last" : "Warren",
+			"first" : "Elizabeth"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "MA"
+			}
+		],
+		"id" : {
+			"bioguide" : "K000379"
+		},
+		"name" : {
+			"first" : "Joseph",
+			"last" : "Kennedy"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "MD"
+			}
+		],
+		"id" : {
+			"bioguide" : "D000620"
+		},
+		"name" : {
+			"last" : "Delaney",
+			"first" : "John"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "ME"
+			}
+		],
+		"id" : {
+			"bioguide" : "K000383"
+		},
+		"name" : {
+			"last" : "King",
+			"first" : "Angus"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "MI"
+			}
+		],
+		"id" : {
+			"bioguide" : "K000380"
+		},
+		"name" : {
+			"last" : "Kildee",
+			"first" : "Daniel"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "MI"
+			}
+		],
+		"id" : {
+			"bioguide" : "B001280"
+		},
+		"name" : {
+			"last" : "Bentivolio",
+			"first" : "Kerry"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "MN"
+			},
+			{
+				"state" : "MN"
+			},
+			{
+				"state" : "MN"
+			},
+			{
+				"state" : "MN"
+			}
+		],
+		"id" : {
+			"bioguide" : "N000127"
+		},
+		"name" : {
+			"last" : "Nolan",
+			"first" : "Richard"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "MO"
+			}
+		],
+		"id" : {
+			"bioguide" : "W000812"
+		},
+		"name" : {
+			"last" : "Wagner",
+			"first" : "Ann"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "MT"
+			}
+		],
+		"id" : {
+			"bioguide" : "D000618"
+		},
+		"name" : {
+			"last" : "Daines",
+			"first" : "Steve"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "NC"
+			}
+		],
+		"id" : {
+			"bioguide" : "H001067"
+		},
+		"name" : {
+			"last" : "Hudson",
+			"first" : "Richard"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "NC"
+			}
+		],
+		"id" : {
+			"bioguide" : "P000606"
+		},
+		"name" : {
+			"last" : "Pittenger",
+			"first" : "Robert"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "NC"
+			}
+		],
+		"id" : {
+			"bioguide" : "M001187"
+		},
+		"name" : {
+			"last" : "Meadows",
+			"first" : "Mark"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "NC"
+			}
+		],
+		"id" : {
+			"bioguide" : "H001065"
+		},
+		"name" : {
+			"last" : "Holding",
+			"first" : "George"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "ND"
+			}
+		],
+		"id" : {
+			"bioguide" : "H001069"
+		},
+		"name" : {
+			"last" : "Heitkamp",
+			"first" : "Heidi"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "ND"
+			}
+		],
+		"id" : {
+			"bioguide" : "C001096"
+		},
+		"name" : {
+			"last" : "Cramer",
+			"first" : "Kevin"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "NE"
+			}
+		],
+		"id" : {
+			"bioguide" : "F000463"
+		},
+		"name" : {
+			"last" : "Fischer",
+			"first" : "Deb"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "NH"
+			}
+		],
+		"id" : {
+			"bioguide" : "K000382"
+		},
+		"name" : {
+			"last" : "Kuster",
+			"first" : "Ann"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "NM"
+			}
+		],
+		"id" : {
+			"bioguide" : "L000580"
+		},
+		"name" : {
+			"last" : "Lujan Grisham",
+			"first" : "Michelle"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "NV"
+			}
+		],
+		"id" : {
+			"bioguide" : "H001066"
+		},
+		"name" : {
+			"last" : "Horsford",
+			"first" : "Steven"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "NY"
+			}
+		],
+		"id" : {
+			"bioguide" : "M001188"
+		},
+		"name" : {
+			"last" : "Meng",
+			"first" : "Grace"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "NY"
+			}
+		],
+		"id" : {
+			"bioguide" : "J000294"
+		},
+		"name" : {
+			"last" : "Jeffries",
+			"first" : "Hakeem"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "NY"
+			}
+		],
+		"id" : {
+			"bioguide" : "M001185"
+		},
+		"name" : {
+			"last" : "Maloney",
+			"first" : "Sean"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "NY"
+			}
+		],
+		"id" : {
+			"bioguide" : "C001092"
+		},
+		"name" : {
+			"last" : "Collins",
+			"first" : "Chris"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "OH"
+			}
+		],
+		"id" : {
+			"bioguide" : "W000815"
+		},
+		"name" : {
+			"last" : "Wenstrup",
+			"first" : "Brad"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "OH"
+			}
+		],
+		"id" : {
+			"bioguide" : "B001281"
+		},
+		"name" : {
+			"last" : "Beatty",
+			"first" : "Joyce"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "OH"
+			}
+		],
+		"id" : {
+			"bioguide" : "J000295"
+		},
+		"name" : {
+			"last" : "Joyce",
+			"first" : "David"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "OK"
+			}
+		],
+		"id" : {
+			"bioguide" : "B001283"
+		},
+		"name" : {
+			"last" : "Bridenstine",
+			"first" : "Jim"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "OK"
+			}
+		],
+		"id" : {
+			"bioguide" : "M001190"
+		},
+		"name" : {
+			"last" : "Mullin",
+			"first" : "Markwayne"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "PA"
+			}
+		],
+		"id" : {
+			"bioguide" : "P000605"
+		},
+		"name" : {
+			"last" : "Perry",
+			"first" : "Scott"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "PA"
+			}
+		],
+		"id" : {
+			"bioguide" : "R000598"
+		},
+		"name" : {
+			"last" : "Rothfus",
+			"first" : "Keith"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "PA"
+			}
+		],
+		"id" : {
+			"bioguide" : "C001090"
+		},
+		"name" : {
+			"last" : "Cartwright",
+			"first" : "Matthew"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "SC"
+			}
+		],
+		"id" : {
+			"bioguide" : "R000597"
+		},
+		"name" : {
+			"last" : "Rice",
+			"first" : "Tom"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "TX"
+			}
+		],
+		"id" : {
+			"bioguide" : "C001098"
+		},
+		"name" : {
+			"last" : "Cruz",
+			"first" : "Ted"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "TX"
+			}
+		],
+		"id" : {
+			"bioguide" : "W000814"
+		},
+		"name" : {
+			"last" : "Weber",
+			"first" : "Randy"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "TX"
+			}
+		],
+		"id" : {
+			"bioguide" : "O000170"
+		},
+		"name" : {
+			"last" : "O'Rourke",
+			"first" : "Beto"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "TX"
+			}
+		],
+		"id" : {
+			"bioguide" : "C001091"
+		},
+		"name" : {
+			"last" : "Castro",
+			"first" : "Joaquin"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "TX"
+			}
+		],
+		"id" : {
+			"bioguide" : "G000572"
+		},
+		"name" : {
+			"last" : "Gallego",
+			"first" : "Pete"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "TX"
+			}
+		],
+		"id" : {
+			"bioguide" : "W000816"
+		},
+		"name" : {
+			"last" : "Williams",
+			"first" : "Roger"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "TX"
+			}
+		],
+		"id" : {
+			"bioguide" : "V000131"
+		},
+		"name" : {
+			"last" : "Veasey",
+			"first" : "Marc"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "TX"
+			}
+		],
+		"id" : {
+			"bioguide" : "V000132"
+		},
+		"name" : {
+			"last" : "Vela",
+			"first" : "Filemon"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "UT"
+			}
+		],
+		"id" : {
+			"bioguide" : "S001192"
+		},
+		"name" : {
+			"last" : "Stewart",
+			"first" : "Chris"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "VA"
+			}
+		],
+		"id" : {
+			"bioguide" : "K000384"
+		},
+		"name" : {
+			"last" : "Kaine",
+			"first" : "Timothy"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "WA"
+			}
+		],
+		"id" : {
+			"bioguide" : "K000381"
+		},
+		"name" : {
+			"last" : "Kilmer",
+			"first" : "Derek"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "WA"
+			}
+		],
+		"id" : {
+			"bioguide" : "H001064"
+		},
+		"name" : {
+			"last" : "Heck",
+			"first" : "Denny"
+		}
+	},
+	{
+		"terms" : [
+			{
+				"state" : "WI"
+			}
+		],
+		"id" : {
+			"bioguide" : "P000607"
+		},
+		"name" : {
+			"last" : "Pocan",
+			"first" : "Mark"
+		}
+	}
+]
